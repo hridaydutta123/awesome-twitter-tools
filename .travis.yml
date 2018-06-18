@@ -1,3 +1,4 @@
+# Travis CI for awesome repos
 language: ruby
 rvm:
   - 2.2
