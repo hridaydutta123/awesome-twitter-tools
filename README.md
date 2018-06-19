@@ -37,6 +37,36 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter Video Assist](https://chrome.google.com/webstore/detail/twitter-video-assist/cledppeceojodgghbbkaciochldmpdfk?&hl=en) - For your better Twitter video experience.
 + [Notifier for Twitter](https://chrome.google.com/webstore/detail/notifier-for-twitter/ikknnkomiokeodcdkknnhgjmncfiefmn?&hl=en) - Brings new tweet notifications to Chrome 
 + [Twitter Web - Night Mode](https://chrome.google.com/webstore/detail/twitter-web-night-mode/cadmiljohldbooihfbkjkobepojailca?&hl=en) - Android/iOS like night mode for twitter web app
++ [Mass follow for Twitter](https://chrome.google.com/webstore/detail/mass-follow-for-twitter/lfmanfkmmgfigbnjibfemdnnfjboficn) - A feature-rich extension to mass follow and unfollow on Twitter.
++ [Twitter View Original Images](https://chrome.google.com/webstore/detail/twitter-view-original-ima/bkpaljhmpehdbjkoahohlhkhlleaicel) - Open images in original size on Twitter.
++ [Twitter Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/gnljhgbcmacopdfedmiaccgfijmnfppo) - Allows you to unfollow many users on Twitter with a simple click
++ [Bird Nest for Twitter](https://chrome.google.com/webstore/detail/bird-nest-for-twitter/cdoinklelehcpndgmcddkkdhibpoglnk) - The fastest way to tweet from Chrome
++ [Twitter Pixel Helper](https://chrome.google.com/webstore/detail/twitter-pixel-helper/jepminnlebllinfmkhfbkpckogoiefpd) - Displays an icon if there is a Twitter website tag on a given page
++ [Hide Twitter Guff](https://chrome.google.com/webstore/detail/hide-twitter-guff/ebjehgoicideedhhnfjhfaidlpdhofod) - Optionally hides all the useless guff on the twitter website (who to follow, trends, promotions, definitions).
++ [QuickTweet](https://chrome.google.com/webstore/detail/quicktweet-for-multiple-t/kalepocfmlnefnjlbecpkidgdaigibml) - Single click Sign-in Assistant and Account Switcher for multiple Twitter™ accounts.
++ [EmojiPanel for Twitter (Previously EmojiT)](https://chrome.google.com/webstore/detail/emojipanel-for-twitter-pr/jfjmncmbmpnaljmmcmeefmkmionkojmd) - Emoji dropdown panel for twitter.com
++ [Share on Twitter](https://chrome.google.com/webstore/detail/share-on-twitter/gkjgmeeoldebbdoehhngapnlfmdbmiie) - Easily share current tab, links and selected text on Twitter, using toolbar button, keyboard command and context menu options.
++ [Twitter Disconnect](https://chrome.google.com/webstore/detail/twitter-disconnect/mepbfdngnnnpcnnijhibnejcogmidpig) - Stop Twitter from tracking the webpages you go to.
++ [Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah) - Blocks all users on a following/followers page.
++ [Twitter Large Images](https://chrome.google.com/webstore/detail/twitter-large-images/jajkeadlaiibpkpnnihopfalndpfioag) - Gets the large versions of images posted on Twitter.
++ [Easy for Twitter](https://chrome.google.com/webstore/detail/easy-for-twitter/lkbkfblojdaocdljndhaopfglpmboeki) - Twitter Lite for Chrome. Better then TweetDeck. Tweet to Web. Follow, Unfollow, Share, Download, Video, Like. Live Notifications.
++ [Silver Bird Plus](https://chrome.google.com/webstore/detail/silver-bird-plus-twitter/kagejfgngcmkbaacpmcnbpkhmhoeccee) - A lovely little Twitter client that allows you to follow your timelines and interact with your Twitter account.
++ [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) - Download images/videos of user's media-timeline on Twitter.
++ [Remove Promotions for Twitter](https://chrome.google.com/webstore/detail/remove-promotions-for-twi/anbilhcdogbnkeohnkdmlkhegmahngod) - Remove promoted Trends, Accounts, & Tweets from the Twitter website.
++ [HashPlug - Add Twitter Search to Google](https://chrome.google.com/webstore/detail/hashplug-add-twitter-sear/hfbojcndmfkenfoiaengklhlociepkef) - A Twitter Extension for Chrome that adds Realtime Twitter search results into Google in an unobtrusive manner.
++ [Twitter detector](https://chrome.google.com/webstore/detail/twitter-detector-detect-t/papcdbgfejihdinhieggiamjnkclhkck) - This extension adds a twitter icon into the url / address bar when it finds all twitter accounts for the page its on.
++ [Twitter Volume Control](https://chrome.google.com/webstore/detail/twitter-volume-control/geeghoallaenmelpkedpgjpllljkfeap) - Adds a volume slider to twitter videos
+
+
+<!-- Research Papers -->
+## Research Papers
+
+<!-- Datasets -->
+## Datasets
+
+<!-- Famous Twitter Lists -->
+## Twitter Lists
+
 
 <!--License-->
 ## License
