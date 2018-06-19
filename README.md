@@ -7,6 +7,14 @@ A curated list of awesome Twitter tools, libraries and resources.
 
 This is a work in progress, so if you know of Twitter tools that are not mentioned here, please do a PR!
 
+## Contents
+
+- [Tools](#tools)
+- [Browser Extensions](#browser-extensions)
+- [Research Papers](#research-papers)
+- [Datasets](#datasets)
+- [Twitter Lists](#twitter-lists)
+
 <!-- Tools -->
 ## Tools
 
