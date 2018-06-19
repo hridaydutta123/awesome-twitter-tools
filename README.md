@@ -25,7 +25,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Coopboost](https://github.com/lambtron/coopboost) - Tool to grow your twitter audience.
 + [twitter-stats](https://github.com/eldraco/twitter-stats) - Python tool to get stats about twitter accounts. How stop following you, etc.
 + [twarc](https://github.com/DocNow/twarc) - A command line tool (and Python library) for archiving Twitter JSON
-+ [ospriet](https://github.com/twitter-archive/ospriet) - An example audience moderation app built on Twitter http://twitter.github.com/ospriet
++ [ospriet](https://github.com/twitter-archive/ospriet) - An example audience moderation app built on Twitter.
 + [tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 + [twistorpy](https://github.com/fisadev/twistorpy) - Simple command-line tool / python module that allows you to make a backup of the tweets of a twitter user on a json file.
 + [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
