@@ -75,7 +75,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Elon Musk Tweets-Until 4/6/17](https://data.world/adamhelsinger/elon-musk-tweets-until-4-6-17) - Elon Musk's tweets from 2010-06-04 to 2017-04-05.
 + [476 million Twitter tweets](https://snap.stanford.edu/data/twitter7.html) - 467 million Twitter posts from 20 million users covering a 7 month period from June 1 2009 to December 31 2009.
 + [Twitter Sentiment Analysis](https://github.com/TharinduMunasinge/Twitter-Sentiment-Analysis) - Dataset for Twitter Sentiment Analysis.
-+ [The #BTW17 Twitter Dataset - Recorded Tweets of the Federal Election Campaigns of 2017 for the 19th German Bundestag](https://doi.org/10.5281/zenodo.835735) - Dataset comprising of Twitter interactions related with German politicians of the most important political parties over several months in the (pre-)phase of the German election campaigns in 2017. 
++ [The #BTW17 Twitter Dataset, Recorded Tweets of the Federal Election Campaigns of 2017 for the 19th German Bundestag](https://zenodo.org/record/835735#.WyqTj3WFO-o) - Dataset comprising of Twitter interactions related with German politicians of the most important political parties over several months in the prephase of the German election campaigns in 2017. 
 + [USA: Geolocated Twitter Dataset](http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/) - 200,000 USA geolocated tweets. Free Twitter Dataset
 
 
