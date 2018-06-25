@@ -1,9 +1,9 @@
 [
   {
-    "loc": 116,
-    "status": 301,
-    "link": "https://twitter.com/DarrenHeitner/sports-agents",
-    "redirect": "https://twitter.com/DarrenHeitner/lists/sports-agents",
+    "loc": 1,
+    "status": 302,
+    "link": "https://doi.org/10.5281/zenodo.1297511",
+    "redirect": "https://zenodo.org/record/1297511",
     "error": ""
   }
 ]
