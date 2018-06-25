@@ -68,6 +68,11 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 
 <!-- Research Papers -->
 ## Research Papers
++ [What is a Twitter, a Social Network or a News Media?](www.ambuehler.ethz.ch/CDstore/www2010/www/p591.pdf)
++ [A system for real-time twitter sentiment analysis of 2012 us presidential election cycle](https://aclanthology.info/pdf/P/P12/P12-3020.pdf)
++ [Emoticon smoothed language models for twitter sentiment analysis.](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/5083/5319)
++ [Fame for sale: efficient detection of fake Twitter followers](https://www.sciencedirect.com/science/article/pii/S0167923615001803)
++ [Fraudar: Bounding graph fraud in the face of camouflage](https://dl.acm.org/citation.cfm?id=2939747)
 
 <!-- Datasets -->
 ## Datasets
