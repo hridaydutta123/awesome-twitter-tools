@@ -1,9 +1,9 @@
 [
   {
-    "loc": 78,
-    "status": 404,
-    "link": "https://zenodo.org/10.5281/zenodo.835735",
-    "redirect": "",
+    "loc": 116,
+    "status": 301,
+    "link": "https://twitter.com/DarrenHeitner/sports-agents",
+    "redirect": "https://twitter.com/DarrenHeitner/lists/sports-agents",
     "error": ""
   }
 ]

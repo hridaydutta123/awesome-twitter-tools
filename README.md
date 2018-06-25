@@ -107,6 +107,13 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 
 <!-- Famous Twitter Lists -->
 ## Twitter Lists
++ [Machine Learning](https://twitter.com/alisohani/lists/machine-learning/members) - A public list by Ali Sohani
++ [Tech Founders](https://twitter.com/Scobleizer/lists/tech-founders) - People who started companies or entrepreneurs in tech industry.
++ [Crypto/Blockchain/ICOs](https://twitter.com/Scobleizer/lists/crypto-blockchain-icos) - A list of people and companies in the cryptocurrency/blockchain and ICO spaces.
++ [Women in Data Science](https://twitter.com/BecomingDataSci/lists/women-in-data-science) - Women doing data science, big data, machine learning, statistics, etc.
++ [Deeper Learning](https://twitter.com/leefink/lists/deeper-learning) - A public list by Lee Finkelstein
++ [Soc Sci Academic Tweeters](https://twitter.com/LSEImpactBlog/lists/soc-sci-academic-tweeters) - Anthropology, economics, geography, law, political science and sociology
++ [NLP](https://twitter.com/discernerco/lists/nlp) - This is a list of accounts tweeting about natural language processing.
 
 
 <!--License-->
