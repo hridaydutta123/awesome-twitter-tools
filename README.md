@@ -73,6 +73,9 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Emoticon smoothed language models for twitter sentiment analysis.](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/5083/5319)
 + [Fame for sale: efficient detection of fake Twitter followers](https://www.sciencedirect.com/science/article/pii/S0167923615001803)
 + [Fraudar: Bounding graph fraud in the face of camouflage](https://dl.acm.org/citation.cfm?id=2939747)
++ [Twitter mood predicts the stock market.](https://arxiv.org/pdf/1010.3003&)
++ [Earthquake shakes Twitter users: real-time event detection by social sensors](https://dl.acm.org/citation.cfm?id=1772777)
++ [Why we twitter: understanding microblogging usage and communities](https://dl.acm.org/citation.cfm?id=1348556)
 
 <!-- Datasets -->
 ## Datasets
