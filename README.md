@@ -76,6 +76,9 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter mood predicts the stock market.](https://arxiv.org/pdf/1010.3003&)
 + [Earthquake shakes Twitter users: real-time event detection by social sensors](https://dl.acm.org/citation.cfm?id=1772777)
 + [Why we twitter: understanding microblogging usage and communities](https://dl.acm.org/citation.cfm?id=1348556)
++ [Twitter Sentiment Classification using Distant Supervision](www.yuefly.com/Public/Files/2017-03-07/58beb0822faef.pdf)
++ [Twitter as a Corpus for Sentiment Analysis and Opinion Mining](http://crowdsourcing-class.org/assignments/downloads/pak-paroubek.pdf)
++ [Twitter sentiment analysis: The good the bad and the omg!](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2857/3251?height%3D90%%26iframe%3Dtrue%26width%3D90%)
 
 <!-- Datasets -->
 ## Datasets
