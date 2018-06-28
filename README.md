@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/hridaydutta123/awesome-twitter-tools.svg?branch=master)](https://travis-ci.org/hridaydutta123/awesome-twitter-tools) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hridaydutta123/awesome-twitter-tools) [![Join the chat at https://gitter.im/awesome-twitter-tools/Lobby](https://badges.gitter.im/awesome-twitter-tools/Lobby.svg)](https://gitter.im/awesome-twitter-tools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![HitCount](http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools.svg)](http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hridaydutta123/awesome-twitter-tools/issues) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/hridaydutta123)
+[![Build Status](https://api.travis-ci.org/hridaydutta123/awesome-twitter-tools.svg?branch=master)](https://travis-ci.org/hridaydutta123/awesome-twitter-tools) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hridaydutta123/awesome-twitter-tools) [![Join the chat at https://gitter.im/awesome-twitter-tools/Lobby](https://badges.gitter.im/awesome-twitter-tools/Lobby.svg)](https://gitter.im/awesome-twitter-tools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![HitCount](http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools.svg)](http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hridaydutta123/awesome-twitter-tools/issues) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/hridaydutta123) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1297511.svg)](https://zenodo.org/record/1297511)
 
 
 <!-- Head -->
@@ -76,10 +76,9 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter mood predicts the stock market.](https://arxiv.org/pdf/1010.3003&)
 + [Earthquake shakes Twitter users: real-time event detection by social sensors](https://dl.acm.org/citation.cfm?id=1772777)
 + [Why we twitter: understanding microblogging usage and communities](https://dl.acm.org/citation.cfm?id=1348556)
-+ [Twitter Sentiment Classification using Distant Supervision](https://s3.amazonaws.com/academia.edu.documents/34632156/Twitter_Sentiment_Classification_using_Distant_Supervision.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1530112424&Signature=jmgV%2BgKIEESSNGox%2BYjVEGSYzKU%3D&response-content-disposition=inline%3B%20filename%3DTwitter_Sentiment_Classification_using_D.pdf)
++ [Twitter Sentiment Classification using Distant Supervision](www.yuefly.com/Public/Files/2017-03-07/58beb0822faef.pdf)
 + [Twitter as a Corpus for Sentiment Analysis and Opinion Mining](http://crowdsourcing-class.org/assignments/downloads/pak-paroubek.pdf)
 + [Twitter sentiment analysis: The good the bad and the omg!](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2857/3251?height%3D90%%26iframe%3Dtrue%26width%3D90%)
-
 
 <!-- Datasets -->
 ## Datasets
@@ -111,6 +110,13 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 
 <!-- Famous Twitter Lists -->
 ## Twitter Lists
++ [Machine Learning](https://twitter.com/alisohani/lists/machine-learning/members) - A public list by Ali Sohani
++ [Tech Founders](https://twitter.com/Scobleizer/lists/tech-founders) - People who started companies or entrepreneurs in tech industry.
++ [Crypto/Blockchain/ICOs](https://twitter.com/Scobleizer/lists/crypto-blockchain-icos) - A list of people and companies in the cryptocurrency/blockchain and ICO spaces.
++ [Women in Data Science](https://twitter.com/BecomingDataSci/lists/women-in-data-science) - Women doing data science, big data, machine learning, statistics, etc.
++ [Deeper Learning](https://twitter.com/leefink/lists/deeper-learning) - A public list by Lee Finkelstein
++ [Soc Sci Academic Tweeters](https://twitter.com/LSEImpactBlog/lists/soc-sci-academic-tweeters) - Anthropology, economics, geography, law, political science and sociology
++ [NLP](https://twitter.com/discernerco/lists/nlp) - This is a list of accounts tweeting about natural language processing.
 
 
 <!--License-->
