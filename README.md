@@ -38,6 +38,8 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [twistorpy](https://github.com/fisadev/twistorpy) - Simple command-line tool / python module that allows you to make a backup of the tweets of a twitter user on a json file.
 + [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 + [twitlim](https://github.com/rmnl/twitlim) - Tool(s) for limiting your Twitter tweets.
++ [NapoleonCat](https://napoleoncat.com/?utm_campaign=KamilK&utm_content=managing-Twitter-accounts&utm_medium=earned&utm_source=Quora&utm_term=What-are-best-Twitter-automation-tools-2017) - It’s a social media management and analytics tool which supports Twitter and offers many automation solutions for Twitter profiles.
++ [Tweet Deck](https://tweetdeck.twitter.com/) - Tweet Deck is a Twitter management tool, where one can view your twitter feed, mentions, notification just from one window.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
@@ -68,6 +70,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 
 <!-- Research Papers -->
 ## Research Papers
+
 + [What is a Twitter, a Social Network or a News Media?](www.ambuehler.ethz.ch/CDstore/www2010/www/p591.pdf)
 + [A system for real-time twitter sentiment analysis of 2012 us presidential election cycle](https://aclanthology.info/pdf/P/P12/P12-3020.pdf)
 + [Emoticon smoothed language models for twitter sentiment analysis.](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/5083/5319)
@@ -79,9 +82,14 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter Sentiment Classification using Distant Supervision](www.yuefly.com/Public/Files/2017-03-07/58beb0822faef.pdf)
 + [Twitter as a Corpus for Sentiment Analysis and Opinion Mining](http://crowdsourcing-class.org/assignments/downloads/pak-paroubek.pdf)
 + [Twitter sentiment analysis: The good the bad and the omg!](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2857/3251?height%3D90%%26iframe%3Dtrue%26width%3D90%)
++ [Don't follow me: Spam detection in Twitter](http://www.hughchristensen.co.uk/papers/socialNetworking/SECRYPT2010_Wang.pdf)
++ [Personalized Recommendation of Twitter Lists Using Content and Network Information](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8120/8142)
++ [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?](https://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
++ [Fame for sale: Efficient detection of fake Twitter followers](http://daneshyari.com/article/preview/553058.pdf)
 
 <!-- Datasets -->
 ## Datasets
+
 + [Trump Tweets, 5/4/09 - 12/5/16](https://data.world/lovesdata/trump-tweets-5-4-09-12-5-16) - All 30,385 Trump tweets as of 1/27/2017.
 + [Elon Musk Tweets-Until 4/6/17](https://data.world/adamhelsinger/elon-musk-tweets-until-4-6-17) - Elon Musk's tweets from 2010-06-04 to 2017-04-05.
 + [476 million Twitter tweets](https://snap.stanford.edu/data/twitter7.html) - 467 million Twitter posts from 20 million users covering a 7 month period from June 1 2009 to December 31 2009.
@@ -90,7 +98,6 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [USA: Geolocated Twitter Dataset][(http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/) - 200,000 USA geolocated tweets. Free Twitter Dataset
 + [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140) - This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api. The tweets have been annotated (0 = negative, 2 = neutral, 4 = positive) and they can be used to detect sentiment.
 + [Twitter Data set for Arabic Sentiment Analysis Data Set ](https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis) - Twitter Data set for Arabic Sentiment Analysis Dataset
-+ [Twitter 2010 data set](https://www.isi.edu/~lerman/downloads/twitter/twitter2010.html) - Twitter_2010 data set contains tweets containing URLs that have been posted on Twitter during October 2010. In addition to tweets, we also the followee links of tweeting users, allowing us to reconstruct the follower graph of active (tweeting) users.
 + [Twitter event datasets (2012-2016)](https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460) - This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords.
 + [Twitter Events Dataset](http://u.cs.biu.ac.il/~nlp/resources/downloads/twitter-events/) - A dataset for consolidated open knowledge representation of multiple redundant texts.
 + [Twitter News Dataset](https://users.dcc.uchile.cl/~mquezada/breakingnews/) - This dataset consists on 5234 news events obtained from Twitter.
@@ -104,20 +111,22 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Hurricane Harvey Twitter Dataset](https://digital.library.unt.edu/ark:/67531/metadc993940/) - Twitter JSON data for Tweets related to Hurricane Harvey and the subsequent flooding along the Texas gulf region. 
 + [Arab Spring Twitter Dataset](http://www.cnergres.iitkgp.ac.in/blog/2018/02/28/arab-spring-twitter-dataset/) - Arab-Spring Movement was a wave of anti-government demonstrations and protests which took place in a substantial number of middle-east countries in 2011. During this events, Twitter was used extensively to propagate news and opinions. We collected publicly available tweets from Algeria connected to these events.
 + [NFL Tweet Dataset](http://www.cs.cmu.edu/~ark/football/) - A dataset of NFL game data from the 2010-2012 NFL seasons along with IDs of tweets from the Twitter gardenhose that were automatically aligned to particular games/teams.
-+ [Datasets for Social Network Analysis](https://aminer.org/data-sna) - Multiple Twitter datasets and other social network analysis datasets
++ [Datasets for Social Network Analysis](https://www.aminer.cn/data-sna) - Multiple Twitter datasets and other social network analysis datasets
 + [HSpam14 Dataset](https://www.ntu.edu.sg/home/axsun/datasets.html) - The HSpam14 dataset described in SIGIR 2015 (HSpam14: A Collection of 14 Million Tweets for Hashtag-Oriented Spam Research) paper.
 + [Analyzing User Modeling on Twitter for Personalized News Recommendations dataset](http://www.wis.ewi.tudelft.nl/umap2011/) - Analyzing User Modeling on Twitter for Personalized News Recommendations paper, Springer dataset. 
++ [Infochimps](http://www.infochimps.com/) - It maintains tweets datasets and other related datasets. Infochimps offers both publicly free Twitter datasets and datasets for sale.
 
 <!-- Famous Twitter Lists -->
 ## Twitter Lists
+
 + [Machine Learning](https://twitter.com/alisohani/lists/machine-learning/members) - A public list by Ali Sohani
-+ [Tech Founders](https://twitter.com/Scobleizer/lists/tech-founders) - People who started companies or entrepreneurs in tech industry.
 + [Crypto/Blockchain/ICOs](https://twitter.com/Scobleizer/lists/crypto-blockchain-icos) - A list of people and companies in the cryptocurrency/blockchain and ICO spaces.
 + [Women in Data Science](https://twitter.com/BecomingDataSci/lists/women-in-data-science) - Women doing data science, big data, machine learning, statistics, etc.
 + [Deeper Learning](https://twitter.com/leefink/lists/deeper-learning) - A public list by Lee Finkelstein
 + [Soc Sci Academic Tweeters](https://twitter.com/LSEImpactBlog/lists/soc-sci-academic-tweeters) - Anthropology, economics, geography, law, political science and sociology
 + [NLP](https://twitter.com/discernerco/lists/nlp) - This is a list of accounts tweeting about natural language processing.
-
++ [Startup Founders](https://twitter.com/kaz/lists/founders) - A list of web startup founders.
++ [Fake Twitter Accounts](https://twitter.com/choicechuck/lists/fake-tweeps) - A public list by Chuck Klosterman.
 
 <!--License-->
 ## License
