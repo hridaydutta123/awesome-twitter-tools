@@ -1,9 +1,9 @@
 [
   {
-    "loc": 1,
+    "loc": 114,
     "status": 302,
-    "link": "https://doi.org/10.5281/zenodo.1297511",
-    "redirect": "https://zenodo.org/record/1297511",
+    "link": "https://aminer.org/data-sna",
+    "redirect": "https://www.aminer.cn/data-sna",
     "error": ""
   }
 ]
