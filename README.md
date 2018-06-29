@@ -38,6 +38,8 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [twistorpy](https://github.com/fisadev/twistorpy) - Simple command-line tool / python module that allows you to make a backup of the tweets of a twitter user on a json file.
 + [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 + [twitlim](https://github.com/rmnl/twitlim) - Tool(s) for limiting your Twitter tweets.
++ [NapoleonCat](https://napoleoncat.com/?utm_campaign=KamilK&utm_content=managing-Twitter-accounts&utm_medium=earned&utm_source=Quora&utm_term=What-are-best-Twitter-automation-tools-2017) - It’s a social media management and analytics tool which supports Twitter and offers many automation solutions for Twitter profiles.
++ [Tweet Deck](https://tweetdeck.twitter.com/) - Tweet Deck is a Twitter management tool, where one can view your twitter feed, mentions, notification just from one window.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
@@ -81,7 +83,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter sentiment analysis: The good the bad and the omg!](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2857/3251?height%3D90%%26iframe%3Dtrue%26width%3D90%)
 + [Don't follow me: Spam detection in Twitter](http://www.hughchristensen.co.uk/papers/socialNetworking/SECRYPT2010_Wang.pdf)
 + [Personalized Recommendation of Twitter Lists Using Content and Network Information](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8120/8142)
-+ [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?] (https://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
++ [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?](https://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
 + [Fame for sale: Efficient detection of fake Twitter followers](http://daneshyari.com/article/preview/553058.pdf)
 
 <!-- Datasets -->
