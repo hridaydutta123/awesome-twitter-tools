@@ -70,6 +70,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 
 <!-- Research Papers -->
 ## Research Papers
+
 + [What is a Twitter, a Social Network or a News Media?](www.ambuehler.ethz.ch/CDstore/www2010/www/p591.pdf)
 + [A system for real-time twitter sentiment analysis of 2012 us presidential election cycle](https://aclanthology.info/pdf/P/P12/P12-3020.pdf)
 + [Emoticon smoothed language models for twitter sentiment analysis.](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/5083/5319)
@@ -88,6 +89,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 
 <!-- Datasets -->
 ## Datasets
+
 + [Trump Tweets, 5/4/09 - 12/5/16](https://data.world/lovesdata/trump-tweets-5-4-09-12-5-16) - All 30,385 Trump tweets as of 1/27/2017.
 + [Elon Musk Tweets-Until 4/6/17](https://data.world/adamhelsinger/elon-musk-tweets-until-4-6-17) - Elon Musk's tweets from 2010-06-04 to 2017-04-05.
 + [476 million Twitter tweets](https://snap.stanford.edu/data/twitter7.html) - 467 million Twitter posts from 20 million users covering a 7 month period from June 1 2009 to December 31 2009.
@@ -113,9 +115,11 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Datasets for Social Network Analysis](https://aminer.org/data-sna) - Multiple Twitter datasets and other social network analysis datasets
 + [HSpam14 Dataset](https://www.ntu.edu.sg/home/axsun/datasets.html) - The HSpam14 dataset described in SIGIR 2015 (HSpam14: A Collection of 14 Million Tweets for Hashtag-Oriented Spam Research) paper.
 + [Analyzing User Modeling on Twitter for Personalized News Recommendations dataset](http://www.wis.ewi.tudelft.nl/umap2011/) - Analyzing User Modeling on Twitter for Personalized News Recommendations paper, Springer dataset. 
++ [Infochimps](http://infochimps.com/) - It maintains tweets datasets and other related datasets. Infochimps offers both publicly free Twitter datasets and datasets for sale.
 
 <!-- Famous Twitter Lists -->
 ## Twitter Lists
+
 + [Machine Learning](https://twitter.com/alisohani/lists/machine-learning/members) - A public list by Ali Sohani
 + [Tech Founders](https://twitter.com/Scobleizer/lists/tech-founders) - People who started companies or entrepreneurs in tech industry.
 + [Crypto/Blockchain/ICOs](https://twitter.com/Scobleizer/lists/crypto-blockchain-icos) - A list of people and companies in the cryptocurrency/blockchain and ICO spaces.
