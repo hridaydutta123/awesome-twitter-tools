@@ -79,6 +79,10 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter Sentiment Classification using Distant Supervision](www.yuefly.com/Public/Files/2017-03-07/58beb0822faef.pdf)
 + [Twitter as a Corpus for Sentiment Analysis and Opinion Mining](http://crowdsourcing-class.org/assignments/downloads/pak-paroubek.pdf)
 + [Twitter sentiment analysis: The good the bad and the omg!](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2857/3251?height%3D90%%26iframe%3Dtrue%26width%3D90%)
++ [Don't follow me: Spam detection in Twitter](http://www.hughchristensen.co.uk/papers/socialNetworking/SECRYPT2010_Wang.pdf)
++ [Personalized Recommendation of Twitter Lists Using Content and Network Information](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8120/8142)
++ [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?] (https://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
++ [Fame for sale: Efficient detection of fake Twitter followers](http://daneshyari.com/article/preview/553058.pdf)
 
 <!-- Datasets -->
 ## Datasets
@@ -117,7 +121,8 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Deeper Learning](https://twitter.com/leefink/lists/deeper-learning) - A public list by Lee Finkelstein
 + [Soc Sci Academic Tweeters](https://twitter.com/LSEImpactBlog/lists/soc-sci-academic-tweeters) - Anthropology, economics, geography, law, political science and sociology
 + [NLP](https://twitter.com/discernerco/lists/nlp) - This is a list of accounts tweeting about natural language processing.
-
++ [Startup Founders](https://twitter.com/kaz/lists/founders) - A list of web startup founders.
++ [Fake Twitter Accounts](https://twitter.com/choicechuck/lists/fake-tweeps) - A public list by Chuck Klosterman.
 
 <!--License-->
 ## License
