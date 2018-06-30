@@ -86,7 +86,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Personalized Recommendation of Twitter Lists Using Content and Network Information](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8120/8142)
 + [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?](https://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
 + [Fame for sale: Efficient detection of fake Twitter followers](http://daneshyari.com/article/preview/553058.pdf)
-+ [Like It or Not: A Survey of Twitter Sentiment Analysis Methods](https://www.researchgate.net/publication/304916478_Like_It_or_Not_A_Survey_of_Twitter_Sentiment_Analysis_Methods)
++ [Like It or Not: A Survey of Twitter Sentiment Analysis Methods](https://dl.acm.org/citation.cfm?id=2938640)
 + [Using Twitter to Predict the Stock Market](https://link.springer.com/article/10.1007/s12599-015-0390-4)
 
 <!-- Datasets -->
