@@ -37,7 +37,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 + [twistorpy](https://github.com/fisadev/twistorpy) - Simple command-line tool / python module that allows you to make a backup of the tweets of a twitter user on a json file.
 + [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-+ [twitlim](https://github.com/rmnl/twitlim) - Tool(s) for limiting your Twitter tweets.
+
 
 <!-- Browser Extensions -->
 ## Browser Extensions
@@ -89,7 +89,6 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter Data set for Arabic Sentiment Analysis Data Set ](https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis) - Twitter Data set for Arabic Sentiment Analysis Dataset
 + [Twitter 2010 data set](https://www.isi.edu/~lerman/downloads/twitter/twitter2010.html) - Twitter_2010 data set contains tweets containing URLs that have been posted on Twitter during October 2010. In addition to tweets, we also the followee links of tweeting users, allowing us to reconstruct the follower graph of active (tweeting) users.
 + [Twitter event datasets (2012-2016)](https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460) - This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords.
-+ [Twitter Events Dataset](http://u.cs.biu.ac.il/~nlp/resources/downloads/twitter-events/) - A dataset for consolidated open knowledge representation of multiple redundant texts.
 + [Twitter News Dataset](https://users.dcc.uchile.cl/~mquezada/breakingnews/) - This dataset consists on 5234 news events obtained from Twitter.
 + [Measuring User Influence in Twitter: The Million Follower Fallacy (ICWSM 2010)](http://twitter.mpi-sws.org/data-icwsm2010.html) - Measuring User Influence in Twitter: The Million Follower Fallacy paper dataset accepted at Proceedings of the 4th International AAAI Conference on Weblogs and Social Media (ICWSM)
 + [What is Twitter, a Social Network or a News Media? (WWW 2010)](http://an.kaist.ac.kr/traces/WWW2010.html) - Twitter dataset of 41.7 million user profiles, 1.47 billion social relations, 4,262 trending topics, and 106 million tweets. 
@@ -99,16 +98,13 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter Event Detection dataset](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:68149) - EVENT DETECTION IN TWITTER: A MACHINE-LEARNING APPROACH BASED ON TERM PIVOTING, Nijmegen, the Netherlands : Radboud University
 + [Resources for Research on Crisis Informatics (natural disasters and man-made disasters)](http://crisisnlp.qcri.org/) - 5 resources related to crisis information.
 + [Hurricane Harvey Twitter Dataset](https://digital.library.unt.edu/ark:/67531/metadc993940/) - Twitter JSON data for Tweets related to Hurricane Harvey and the subsequent flooding along the Texas gulf region. 
-+ [Arab Spring Twitter Dataset](http://www.cnergres.iitkgp.ac.in/blog/2018/02/28/arab-spring-twitter-dataset/) - Arab-Spring Movement was a wave of anti-government demonstrations and protests which took place in a substantial number of middle-east countries in 2011. During this events, Twitter was used extensively to propagate news and opinions. We collected publicly available tweets from Algeria connected to these events.
 + [NFL Tweet Dataset](http://www.cs.cmu.edu/~ark/football/) - A dataset of NFL game data from the 2010-2012 NFL seasons along with IDs of tweets from the Twitter gardenhose that were automatically aligned to particular games/teams.
 + [Datasets for Social Network Analysis](https://aminer.org/data-sna) - Multiple Twitter datasets and other social network analysis datasets
-+ [HSpam14 Dataset](https://www.ntu.edu.sg/home/axsun/datasets.html) - The HSpam14 dataset described in SIGIR 2015 (HSpam14: A Collection of 14 Million Tweets for Hashtag-Oriented Spam Research) paper.
 + [Analyzing User Modeling on Twitter for Personalized News Recommendations dataset](http://www.wis.ewi.tudelft.nl/umap2011/) - Analyzing User Modeling on Twitter for Personalized News Recommendations paper, Springer dataset. 
 
 <!-- Famous Twitter Lists -->
 ## Twitter Lists
 + [Machine Learning](https://twitter.com/alisohani/lists/machine-learning/members) - A public list by Ali Sohani
-+ [Tech Founders](https://twitter.com/Scobleizer/lists/tech-founders) - People who started companies or entrepreneurs in tech industry.
 + [Crypto/Blockchain/ICOs](https://twitter.com/Scobleizer/lists/crypto-blockchain-icos) - A list of people and companies in the cryptocurrency/blockchain and ICO spaces.
 + [Women in Data Science](https://twitter.com/BecomingDataSci/lists/women-in-data-science) - Women doing data science, big data, machine learning, statistics, etc.
 + [Deeper Learning](https://twitter.com/leefink/lists/deeper-learning) - A public list by Lee Finkelstein
