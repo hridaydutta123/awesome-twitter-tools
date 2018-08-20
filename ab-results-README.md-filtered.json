@@ -5,33 +5,5 @@
     "link": "https://github.com/rmnl/twitlim",
     "redirect": "",
     "error": ""
-  },
-  {
-    "loc": 92,
-    "status": -1,
-    "link": "http://u.cs.biu.ac.il/~nlp/resources/downloads/twitter-events/",
-    "redirect": "",
-    "error": "Net::ReadTimeout"
-  },
-  {
-    "loc": 102,
-    "status": 500,
-    "link": "http://www.cnergres.iitkgp.ac.in/blog/2018/02/28/arab-spring-twitter-dataset/",
-    "redirect": "",
-    "error": ""
-  },
-  {
-    "loc": 105,
-    "status": 404,
-    "link": "https://www.ntu.edu.sg/home/axsun/datasets.html",
-    "redirect": "",
-    "error": ""
-  },
-  {
-    "loc": 111,
-    "status": 404,
-    "link": "https://twitter.com/Scobleizer/lists/tech-founders",
-    "redirect": "",
-    "error": ""
   }
 ]

@@ -37,6 +37,15 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 + [twistorpy](https://github.com/fisadev/twistorpy) - Simple command-line tool / python module that allows you to make a backup of the tweets of a twitter user on a json file.
 + [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
++ [NapoleonCat](https://napoleoncat.com/?utm_campaign=KamilK&utm_content=managing-Twitter-accounts&utm_medium=earned&utm_source=Quora&utm_term=What-are-best-Twitter-automation-tools-2017) - It’s a social media management and analytics tool which supports Twitter and offers many automation solutions for Twitter profiles.
++ [Tweet Deck](https://tweetdeck.twitter.com/) - Tweet Deck is a Twitter management tool, where one can view your twitter feed, mentions, notification just from one window.
++ [The Herd Locker](http://theherdlocker.com/) - 90% of Twitter conversations are noise. Free service tracks audience-selected hashtags filtering out retweets, requotes and people sharing the stuff you've already seen but which is obscured by URL shorteners - highlighting the popular, and leaders who share it early in realtime and as a weekly digest.
++ [search-tweets-python](https://github.com/twitterdev/search-tweets-python) - This project serves as a wrapper for the Twitter premium and enterprise search APIs, providing a command-line utility and a Python library.
++ [rtweet](https://github.com/mkearney/rtweet) - R client for interacting with Twitter's [stream and REST] APIs
++ [twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
++ [tweet_parser](https://github.com/twitterdev/tweet_parser) - Reliably parse Tweets delivered by Twitter Data products in both the activity-streams and original formats.
++ [twitter-python-ads-sdk](https://github.com/twitterdev/twitter-python-ads-sdk) - A Twitter supported and maintained Ads API SDK for Python.
++ [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
 
 
 <!-- Browser Extensions -->
