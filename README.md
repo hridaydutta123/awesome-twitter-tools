@@ -46,6 +46,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [tweet_parser](https://github.com/twitterdev/tweet_parser) - Reliably parse Tweets delivered by Twitter Data products in both the activity-streams and original formats.
 + [twitter-python-ads-sdk](https://github.com/twitterdev/twitter-python-ads-sdk) - A Twitter supported and maintained Ads API SDK for Python.
 + [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
++ [tweet2vec](https://github.com/bdhingra/tweet2vec) - Character-level encoder/trainer for social media posts.
 
 
 <!-- Browser Extensions -->
@@ -85,6 +86,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter mood predicts the stock market.](https://arxiv.org/pdf/1010.3003&)
 + [Earthquake shakes Twitter users: real-time event detection by social sensors](https://dl.acm.org/citation.cfm?id=1772777)
 + [Why we twitter: understanding microblogging usage and communities](https://dl.acm.org/citation.cfm?id=1348556)
++ [Tweet2Vec: Character-Based Distributed Representations for Social Media](https://arxiv.org/abs/1605.03481)
 
 <!-- Datasets -->
 ## Datasets
