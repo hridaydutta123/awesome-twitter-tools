@@ -46,6 +46,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [tweet_parser](https://github.com/twitterdev/tweet_parser) - Reliably parse Tweets delivered by Twitter Data products in both the activity-streams and original formats.
 + [twitter-python-ads-sdk](https://github.com/twitterdev/twitter-python-ads-sdk) - A Twitter supported and maintained Ads API SDK for Python.
 + [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
++ [tweet2vec](https://github.com/bdhingra/tweet2vec) - Character-level encoder/trainer for social media posts.
 
 
 <!-- Browser Extensions -->
@@ -67,7 +68,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah) - Blocks all users on a following/followers page.
 + [Twitter Large Images](https://chrome.google.com/webstore/detail/twitter-large-images/jajkeadlaiibpkpnnihopfalndpfioag) - Gets the large versions of images posted on Twitter.
 + [Easy for Twitter](https://chrome.google.com/webstore/detail/easy-for-twitter/lkbkfblojdaocdljndhaopfglpmboeki) - Twitter Lite for Chrome. Better then TweetDeck. Tweet to Web. Follow, Unfollow, Share, Download, Video, Like. Live Notifications.
-+ [Silver Bird Plus](https://chrome.google.com/webstore/detail/silver-bird-plus-twitter/kagejfgngcmkbaacpmcnbpkhmhoeccee) - A lovely little Twitter client that allows you to follow your timelines and interact with your Twitter account.
++ [Silver Bird](https://chrome.google.com/webstore/detail/silver-bird/encaiiljifbdbjlphpgpiimidegddhic) - A lovely little Twitter client that allows you to follow your timelines and interact with your Twitter account.
 + [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) - Download images/videos of user's media-timeline on Twitter.
 + [Remove Promotions for Twitter](https://chrome.google.com/webstore/detail/remove-promotions-for-twi/anbilhcdogbnkeohnkdmlkhegmahngod) - Remove promoted Trends, Accounts, & Tweets from the Twitter website.
 + [HashPlug - Add Twitter Search to Google](https://chrome.google.com/webstore/detail/hashplug-add-twitter-sear/hfbojcndmfkenfoiaengklhlociepkef) - A Twitter Extension for Chrome that adds Realtime Twitter search results into Google in an unobtrusive manner.
@@ -85,6 +86,7 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Twitter mood predicts the stock market.](https://arxiv.org/pdf/1010.3003&)
 + [Earthquake shakes Twitter users: real-time event detection by social sensors](https://dl.acm.org/citation.cfm?id=1772777)
 + [Why we twitter: understanding microblogging usage and communities](https://dl.acm.org/citation.cfm?id=1348556)
++ [Tweet2Vec: Character-Based Distributed Representations for Social Media](https://arxiv.org/abs/1605.03481)
 
 <!-- Datasets -->
 ## Datasets
@@ -102,13 +104,12 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 + [Measuring User Influence in Twitter: The Million Follower Fallacy (ICWSM 2010)](http://twitter.mpi-sws.org/data-icwsm2010.html) - Measuring User Influence in Twitter: The Million Follower Fallacy paper dataset accepted at Proceedings of the 4th International AAAI Conference on Weblogs and Social Media (ICWSM)
 + [What is Twitter, a Social Network or a News Media? (WWW 2010)](http://an.kaist.ac.kr/traces/WWW2010.html) - Twitter dataset of 41.7 million user profiles, 1.47 billion social relations, 4,262 trending topics, and 106 million tweets. 
 + [A Long-Term Analysis of Polarization on Twitter (ICWSM 2017)](https://users.ics.aalto.fi/kiran/polarizationTwitter/) - A large longitudinal Twitter dataset of 679,000 users and look at signs of polarization in their (i) network - how people follow political and media accounts, (ii) tweeting behavior - whether they retweet content from both sides, and (iii) content - how partisan the hashtags they use are.
-+ [Twitter topic detection datasets](http://www.socialsensor.eu/results/datasets/72-twitter-tdt-dataset) -  Sensing trending topics in Twitter. IEEE Transactions on Multimedia (pre-print), 2013 dataset
 + [Real-Time Classification of Twitter Trends - Dataset](http://nlp.uned.es/~damiano/datasets/TT-classification.html) - Real-Time Classification of Twitter Trends - Dataset, Journal of the American Society for Information Science and Technology
 + [Twitter Event Detection dataset](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:68149) - EVENT DETECTION IN TWITTER: A MACHINE-LEARNING APPROACH BASED ON TERM PIVOTING, Nijmegen, the Netherlands : Radboud University
 + [Resources for Research on Crisis Informatics (natural disasters and man-made disasters)](http://crisisnlp.qcri.org/) - 5 resources related to crisis information.
 + [Hurricane Harvey Twitter Dataset](https://digital.library.unt.edu/ark:/67531/metadc993940/) - Twitter JSON data for Tweets related to Hurricane Harvey and the subsequent flooding along the Texas gulf region. 
 + [NFL Tweet Dataset](http://www.cs.cmu.edu/~ark/football/) - A dataset of NFL game data from the 2010-2012 NFL seasons along with IDs of tweets from the Twitter gardenhose that were automatically aligned to particular games/teams.
-+ [Datasets for Social Network Analysis](https://aminer.org/data-sna) - Multiple Twitter datasets and other social network analysis datasets
++ [Datasets for Social Network Analysis](https://www.aminer.cn/data-sna) - Multiple Twitter datasets and other social network analysis datasets
 + [Analyzing User Modeling on Twitter for Personalized News Recommendations dataset](http://www.wis.ewi.tudelft.nl/umap2011/) - Analyzing User Modeling on Twitter for Personalized News Recommendations paper, Springer dataset. 
 
 <!-- Famous Twitter Lists -->
