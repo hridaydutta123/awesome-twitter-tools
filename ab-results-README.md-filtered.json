@@ -1,30 +1,447 @@
 [
   {
+    "loc": 1,
+    "link": "https://api.travis-ci.org/hridaydutta123/awesome-twitter-tools.svg?branch=master",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://github.com/hridaydutta123/awesome-twitter-tools",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://gitter.im/awesome-twitter-tools/Lobby",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://badges.gitter.im/awesome-twitter-tools/Lobby.svg",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://gitter.im/awesome-twitter-tools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools.svg",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://img.shields.io/badge/Donate-PayPal-green.svg",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://www.paypal.me/hridaydutta123",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1,
+    "link": "https://zenodo.org/record/1297511",
+    "error": "Dupe"
+  },
+  {
+    "loc": 21,
+    "link": "https://github.com/tweepy/tweepy",
+    "error": "Dupe"
+  },
+  {
+    "loc": 22,
+    "link": "https://github.com/ryanmcgrath/twython",
+    "error": "Dupe"
+  },
+  {
+    "loc": 23,
+    "link": "https://github.com/geduldig/TwitterAPI",
+    "error": "Dupe"
+  },
+  {
+    "loc": 24,
+    "link": "https://github.com/bear/python-twitter",
+    "error": "Dupe"
+  },
+  {
+    "loc": 25,
+    "link": "https://github.com/inueni/birdy",
+    "error": "Dupe"
+  },
+  {
+    "loc": 26,
+    "link": "https://github.com/crowdfavorite/wp-twitter-tools",
+    "error": "Dupe"
+  },
+  {
+    "loc": 27,
+    "link": "https://github.com/sferik/t",
+    "error": "Dupe"
+  },
+  {
+    "loc": 28,
+    "link": "https://github.com/ConradIrwin/twitter-followers",
+    "error": "Dupe"
+  },
+  {
+    "loc": 29,
+    "link": "https://github.com/twitterdev/twitter-leaderboard",
+    "error": "Dupe"
+  },
+  {
+    "loc": 30,
+    "link": "https://github.com/janezkranjc/twitter-tap",
+    "error": "Dupe"
+  },
+  {
+    "loc": 31,
+    "link": "https://github.com/twitterdev/twitter-stream-globe",
+    "error": "Dupe"
+  },
+  {
+    "loc": 32,
+    "link": "https://github.com/jdevoo/twecoll",
+    "error": "Dupe"
+  },
+  {
+    "loc": 33,
+    "link": "https://github.com/lambtron/coopboost",
+    "error": "Dupe"
+  },
+  {
+    "loc": 34,
+    "link": "https://github.com/eldraco/twitter-stats",
+    "error": "Dupe"
+  },
+  {
+    "loc": 35,
+    "link": "https://github.com/DocNow/twarc",
+    "error": "Dupe"
+  },
+  {
+    "loc": 36,
+    "link": "https://github.com/twitter-archive/ospriet",
+    "error": "Dupe"
+  },
+  {
+    "loc": 37,
+    "link": "https://github.com/vaguileradiaz/tinfoleak",
+    "error": "Dupe"
+  },
+  {
+    "loc": 38,
+    "link": "https://github.com/fisadev/twistorpy",
+    "error": "Dupe"
+  },
+  {
+    "loc": 39,
+    "link": "https://github.com/twintproject/twint",
+    "error": "Dupe"
+  },
+  {
     "loc": 40,
-    "status": 404,
-    "link": "https://github.com/rmnl/twitlim",
-    "redirect": "",
-    "error": ""
+    "link": "https://napoleoncat.com/?utm_campaign=KamilK&utm_content=managing-Twitter-accounts&utm_medium=earned&utm_source=Quora&utm_term=What-are-best-Twitter-automation-tools-2017",
+    "error": "Dupe"
+  },
+  {
+    "loc": 41,
+    "link": "https://tweetdeck.twitter.com/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 42,
+    "link": "http://theherdlocker.com/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 47,
+    "link": "https://chrome.google.com/webstore/detail/twitter-video-assist/cledppeceojodgghbbkaciochldmpdfk?&hl=en",
+    "error": "Dupe"
+  },
+  {
+    "loc": 48,
+    "link": "https://chrome.google.com/webstore/detail/notifier-for-twitter/ikknnkomiokeodcdkknnhgjmncfiefmn?&hl=en",
+    "error": "Dupe"
+  },
+  {
+    "loc": 49,
+    "link": "https://chrome.google.com/webstore/detail/twitter-web-night-mode/cadmiljohldbooihfbkjkobepojailca?&hl=en",
+    "error": "Dupe"
+  },
+  {
+    "loc": 50,
+    "link": "https://chrome.google.com/webstore/detail/mass-follow-for-twitter/lfmanfkmmgfigbnjibfemdnnfjboficn",
+    "error": "Dupe"
+  },
+  {
+    "loc": 51,
+    "link": "https://chrome.google.com/webstore/detail/twitter-view-original-ima/bkpaljhmpehdbjkoahohlhkhlleaicel",
+    "error": "Dupe"
+  },
+  {
+    "loc": 52,
+    "link": "https://chrome.google.com/webstore/detail/twitter-unfollow-all/gnljhgbcmacopdfedmiaccgfijmnfppo",
+    "error": "Dupe"
+  },
+  {
+    "loc": 53,
+    "link": "https://chrome.google.com/webstore/detail/bird-nest-for-twitter/cdoinklelehcpndgmcddkkdhibpoglnk",
+    "error": "Dupe"
+  },
+  {
+    "loc": 54,
+    "link": "https://chrome.google.com/webstore/detail/twitter-pixel-helper/jepminnlebllinfmkhfbkpckogoiefpd",
+    "error": "Dupe"
+  },
+  {
+    "loc": 55,
+    "link": "https://chrome.google.com/webstore/detail/hide-twitter-guff/ebjehgoicideedhhnfjhfaidlpdhofod",
+    "error": "Dupe"
+  },
+  {
+    "loc": 56,
+    "link": "https://chrome.google.com/webstore/detail/quicktweet-for-multiple-t/kalepocfmlnefnjlbecpkidgdaigibml",
+    "error": "Dupe"
+  },
+  {
+    "loc": 57,
+    "link": "https://chrome.google.com/webstore/detail/emojipanel-for-twitter-pr/jfjmncmbmpnaljmmcmeefmkmionkojmd",
+    "error": "Dupe"
+  },
+  {
+    "loc": 58,
+    "link": "https://chrome.google.com/webstore/detail/share-on-twitter/gkjgmeeoldebbdoehhngapnlfmdbmiie",
+    "error": "Dupe"
+  },
+  {
+    "loc": 59,
+    "link": "https://chrome.google.com/webstore/detail/twitter-disconnect/mepbfdngnnnpcnnijhibnejcogmidpig",
+    "error": "Dupe"
+  },
+  {
+    "loc": 60,
+    "link": "https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah",
+    "error": "Dupe"
+  },
+  {
+    "loc": 61,
+    "link": "https://chrome.google.com/webstore/detail/twitter-large-images/jajkeadlaiibpkpnnihopfalndpfioag",
+    "error": "Dupe"
+  },
+  {
+    "loc": 62,
+    "link": "https://chrome.google.com/webstore/detail/easy-for-twitter/lkbkfblojdaocdljndhaopfglpmboeki",
+    "error": "Dupe"
+  },
+  {
+    "loc": 63,
+    "link": "https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig",
+    "error": "Dupe"
   },
   {
     "loc": 64,
-    "status": 404,
-    "link": "https://chrome.google.com/webstore/detail/silver-bird-plus-twitter/kagejfgngcmkbaacpmcnbpkhmhoeccee",
-    "redirect": "",
-    "error": ""
+    "link": "https://chrome.google.com/webstore/detail/remove-promotions-for-twi/anbilhcdogbnkeohnkdmlkhegmahngod",
+    "error": "Dupe"
+  },
+  {
+    "loc": 65,
+    "link": "https://chrome.google.com/webstore/detail/hashplug-add-twitter-sear/hfbojcndmfkenfoiaengklhlociepkef",
+    "error": "Dupe"
+  },
+  {
+    "loc": 66,
+    "link": "https://chrome.google.com/webstore/detail/twitter-detector-detect-t/papcdbgfejihdinhieggiamjnkclhkck",
+    "error": "Dupe"
+  },
+  {
+    "loc": 67,
+    "link": "https://chrome.google.com/webstore/detail/twitter-volume-control/geeghoallaenmelpkedpgjpllljkfeap",
+    "error": "Dupe"
+  },
+  {
+    "loc": 74,
+    "link": "https://aclanthology.info/pdf/P/P12/P12-3020.pdf",
+    "error": "Dupe"
+  },
+  {
+    "loc": 75,
+    "link": "http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/5083/5319",
+    "error": "Dupe"
+  },
+  {
+    "loc": 76,
+    "link": "https://www.sciencedirect.com/science/article/pii/S0167923615001803",
+    "error": "Dupe"
+  },
+  {
+    "loc": 77,
+    "link": "https://dl.acm.org/citation.cfm?id=2939747",
+    "error": "Dupe"
+  },
+  {
+    "loc": 78,
+    "link": "https://arxiv.org/pdf/1010.3003&",
+    "error": "Dupe"
+  },
+  {
+    "loc": 79,
+    "link": "https://dl.acm.org/citation.cfm?id=1772777",
+    "error": "Dupe"
+  },
+  {
+    "loc": 80,
+    "link": "https://dl.acm.org/citation.cfm?id=1348556",
+    "error": "Dupe"
+  },
+  {
+    "loc": 94,
+    "link": "https://data.world/lovesdata/trump-tweets-5-4-09-12-5-16",
+    "error": "Dupe"
+  },
+  {
+    "loc": 95,
+    "link": "https://data.world/adamhelsinger/elon-musk-tweets-until-4-6-17",
+    "error": "Dupe"
+  },
+  {
+    "loc": 96,
+    "link": "https://snap.stanford.edu/data/twitter7.html",
+    "error": "Dupe"
+  },
+  {
+    "loc": 97,
+    "link": "https://github.com/TharinduMunasinge/Twitter-Sentiment-Analysis",
+    "error": "Dupe"
+  },
+  {
+    "loc": 98,
+    "link": "https://zenodo.org/record/835735#.WyqTj3WFO-o",
+    "error": "Dupe"
+  },
+  {
+    "loc": 99,
+    "link": "https://www.kaggle.com/kazanova/sentiment140",
+    "error": "Dupe"
+  },
+  {
+    "loc": 100,
+    "link": "https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis",
+    "error": "Dupe"
   },
   {
     "loc": 101,
-    "status": -1,
-    "link": "http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/",
-    "redirect": "",
-    "error": "Failed to open TCP connection to followthehashtag.com:80 (Connection timed out - connect(2) for \"followthehashtag.com\" port 80)"
+    "link": "https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460",
+    "error": "Dupe"
   },
   {
-    "loc": 114,
-    "status": 500,
-    "link": "http://www.cnergres.iitkgp.ac.in/blog/2018/02/28/arab-spring-twitter-dataset/",
-    "redirect": "",
-    "error": ""
+    "loc": 103,
+    "link": "https://users.dcc.uchile.cl/~mquezada/breakingnews/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 104,
+    "link": "http://twitter.mpi-sws.org/data-icwsm2010.html",
+    "error": "Dupe"
+  },
+  {
+    "loc": 105,
+    "link": "http://an.kaist.ac.kr/traces/WWW2010.html",
+    "error": "Dupe"
+  },
+  {
+    "loc": 106,
+    "link": "https://users.ics.aalto.fi/kiran/polarizationTwitter/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 107,
+    "link": "http://nlp.uned.es/~damiano/datasets/TT-classification.html",
+    "error": "Dupe"
+  },
+  {
+    "loc": 108,
+    "link": "https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:68149",
+    "error": "Dupe"
+  },
+  {
+    "loc": 109,
+    "link": "http://crisisnlp.qcri.org/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 110,
+    "link": "https://digital.library.unt.edu/ark:/67531/metadc993940/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 111,
+    "link": "http://www.cs.cmu.edu/~ark/football/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 112,
+    "link": "https://www.aminer.cn/data-sna",
+    "error": "Dupe"
+  },
+  {
+    "loc": 113,
+    "link": "http://www.wis.ewi.tudelft.nl/umap2011/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 119,
+    "link": "https://twitter.com/alisohani/lists/machine-learning/members",
+    "error": "Dupe"
+  },
+  {
+    "loc": 120,
+    "link": "https://twitter.com/Scobleizer/lists/crypto-blockchain-icos",
+    "error": "Dupe"
+  },
+  {
+    "loc": 121,
+    "link": "https://twitter.com/BecomingDataSci/lists/women-in-data-science",
+    "error": "Dupe"
+  },
+  {
+    "loc": 122,
+    "link": "https://twitter.com/leefink/lists/deeper-learning",
+    "error": "Dupe"
+  },
+  {
+    "loc": 123,
+    "link": "https://twitter.com/LSEImpactBlog/lists/soc-sci-academic-tweeters",
+    "error": "Dupe"
+  },
+  {
+    "loc": 124,
+    "link": "https://twitter.com/discernerco/lists/nlp",
+    "error": "Dupe"
+  },
+  {
+    "loc": 133,
+    "link": "http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg",
+    "error": "Dupe"
+  },
+  {
+    "loc": 134,
+    "link": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "error": "Dupe"
   }
 ]
