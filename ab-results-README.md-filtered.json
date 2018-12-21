@@ -1,9 +1,30 @@
 [
   {
+    "loc": 40,
+    "status": 404,
+    "link": "https://github.com/rmnl/twitlim",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 64,
+    "status": 404,
+    "link": "https://chrome.google.com/webstore/detail/silver-bird-plus-twitter/kagejfgngcmkbaacpmcnbpkhmhoeccee",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 101,
+    "status": -1,
+    "link": "http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to followthehashtag.com:80 (Connection timed out - connect(2) for \"followthehashtag.com\" port 80)"
+  },
+  {
     "loc": 114,
-    "status": 302,
-    "link": "https://aminer.org/data-sna",
-    "redirect": "https://www.aminer.cn/data-sna",
+    "status": 500,
+    "link": "http://www.cnergres.iitkgp.ac.in/blog/2018/02/28/arab-spring-twitter-dataset/",
+    "redirect": "",
     "error": ""
   }
 ]
