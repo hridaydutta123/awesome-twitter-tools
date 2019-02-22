@@ -8,11 +8,11 @@ A curated list of awesome Twitter tools, libraries and resources.
 This is a work in progress, so if you know of Twitter tools that are not mentioned here, please do a PR!
 
 # Citation
-
 Please cite this repository as:
 ```
-Hridoy Sankar Dutta, The Gitter Badger, and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tools v1.0”. Zenodo, 25-Jun-2018.
+Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tools v1.0”. Zenodo, 25-Jun-2018.
 ```
+
 ## Contents
 
 - [Tools](#tools)
