@@ -30,6 +30,7 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
 + [birdy](https://github.com/inueni/birdy) - A super awesome Twitter API client for Python.
 + [wp-twitter-tools](https://github.com/crowdfavorite/wp-twitter-tools) - A plugin that creates a complete integration between your WordPress blog and your Twitter account
++ [QuickTwit](https://quicktwit.com/) - A tool to show trends in topics, and the ones originating from selective twitter accounts
 + [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 + [twitter-followers](https://github.com/ConradIrwin/twitter-followers) - A tool to download all a user's twitter followers
 + [twitter-leaderboard](https://github.com/twitterdev/twitter-leaderboard) - Tool to do engagement-based scoring of Twitter usage based on lists of users
