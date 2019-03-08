@@ -59,11 +59,9 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [Twitter Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/gnljhgbcmacopdfedmiaccgfijmnfppo) - Allows you to unfollow many users on Twitter with a simple click
 + [Bird Nest for Twitter](https://chrome.google.com/webstore/detail/bird-nest-for-twitter/cdoinklelehcpndgmcddkkdhibpoglnk) - The fastest way to tweet from Chrome
 + [Twitter Pixel Helper](https://chrome.google.com/webstore/detail/twitter-pixel-helper/jepminnlebllinfmkhfbkpckogoiefpd) - Displays an icon if there is a Twitter website tag on a given page
-+ [Hide Twitter Guff](https://chrome.google.com/webstore/detail/hide-twitter-guff/ebjehgoicideedhhnfjhfaidlpdhofod) - Optionally hides all the useless guff on the twitter website (who to follow, trends, promotions, definitions).
 + [QuickTweet](https://chrome.google.com/webstore/detail/quicktweet-for-multiple-t/kalepocfmlnefnjlbecpkidgdaigibml) - Single click Sign-in Assistant and Account Switcher for multiple Twitter™ accounts.
 + [EmojiPanel for Twitter (Previously EmojiT)](https://chrome.google.com/webstore/detail/emojipanel-for-twitter-pr/jfjmncmbmpnaljmmcmeefmkmionkojmd) - Emoji dropdown panel for twitter.com
 + [Share on Twitter](https://chrome.google.com/webstore/detail/share-on-twitter/gkjgmeeoldebbdoehhngapnlfmdbmiie) - Easily share current tab, links and selected text on Twitter, using toolbar button, keyboard command and context menu options.
-+ [Twitter Disconnect](https://chrome.google.com/webstore/detail/twitter-disconnect/mepbfdngnnnpcnnijhibnejcogmidpig) - Stop Twitter from tracking the webpages you go to.
 + [Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah) - Blocks all users on a following/followers page.
 + [Twitter Large Images](https://chrome.google.com/webstore/detail/twitter-large-images/jajkeadlaiibpkpnnihopfalndpfioag) - Gets the large versions of images posted on Twitter.
 + [Easy for Twitter](https://chrome.google.com/webstore/detail/easy-for-twitter/lkbkfblojdaocdljndhaopfglpmboeki) - Twitter Lite for Chrome. Better then TweetDeck. Tweet to Web. Follow, Unfollow, Share, Download, Video, Like. Live Notifications.
@@ -90,8 +88,8 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [Twitter sentiment analysis: The good the bad and the omg!](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2857/3251?height%3D90%%26iframe%3Dtrue%26width%3D90%)
 + [Don't follow me: Spam detection in Twitter](http://www.hughchristensen.co.uk/papers/socialNetworking/SECRYPT2010_Wang.pdf)
 + [Personalized Recommendation of Twitter Lists Using Content and Network Information](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8120/8142)
-+ [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?](https://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
-+ [Fame for sale: Efficient detection of fake Twitter followers](http://daneshyari.com/article/preview/553058.pdf)
++ [Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg?](http://www.ijirset.com/upload/2017/august/286_Implemnattaion_IEEE.pdf)
++ [Fame for sale: Efficient detection of fake Twitter followers](https://daneshyari.com/article/preview/553058.pdf)
 + [Like It or Not: A Survey of Twitter Sentiment Analysis Methods](https://dl.acm.org/citation.cfm?id=2938640)
 + [Using Twitter to Predict the Stock Market](https://link.springer.com/article/10.1007/s12599-015-0390-4)
 
@@ -117,8 +115,6 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [Hurricane Harvey Twitter Dataset](https://digital.library.unt.edu/ark:/67531/metadc993940/) - Twitter JSON data for Tweets related to Hurricane Harvey and the subsequent flooding along the Texas gulf region. 
 + [NFL Tweet Dataset](http://www.cs.cmu.edu/~ark/football/) - A dataset of NFL game data from the 2010-2012 NFL seasons along with IDs of tweets from the Twitter gardenhose that were automatically aligned to particular games/teams.
 + [Datasets for Social Network Analysis](https://www.aminer.cn/data-sna) - Multiple Twitter datasets and other social network analysis datasets
-+ [Analyzing User Modeling on Twitter for Personalized News Recommendations dataset](http://www.wis.ewi.tudelft.nl/umap2011/) - Analyzing User Modeling on Twitter for Personalized News Recommendations paper, Springer dataset. 
-+ [Infochimps](http://www.infochimps.com/) - It maintains tweets datasets and other related datasets. Infochimps offers both publicly free Twitter datasets and datasets for sale.
 
 <!-- Famous Twitter Lists -->
 ## Twitter Lists
