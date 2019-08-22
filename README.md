@@ -2,7 +2,7 @@
 
 
 <!-- Head -->
-# Awesome Twitter
+# Awesome Twitter Tools
 A curated list of awesome Twitter tools, libraries and resources.
 
 This is a work in progress, so if you know of Twitter tools that are not mentioned here, please do a PR!
