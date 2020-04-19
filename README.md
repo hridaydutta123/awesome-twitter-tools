@@ -29,6 +29,7 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
 + [python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
 + [birdy](https://github.com/inueni/birdy) - A super awesome Twitter API client for Python.
++ [ParallelTweepy](https://github.com/uditarora/ParallelTweepy) - A parallel task scheduler for Tweepy.
 + [wp-twitter-tools](https://github.com/crowdfavorite/wp-twitter-tools) - A plugin that creates a complete integration between your WordPress blog and your Twitter account
 + [QuickTwit](https://quicktwit.com/) - A tool to show trends in topics, and the ones originating from selective twitter accounts
 + [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
