@@ -47,6 +47,7 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 + [NapoleonCat](https://napoleoncat.com/?utm_campaign=KamilK&utm_content=managing-Twitter-accounts&utm_medium=earned&utm_source=Quora&utm_term=What-are-best-Twitter-automation-tools-2017) - It’s a social media management and analytics tool which supports Twitter and offers many automation solutions for Twitter profiles.
 + [The Herd Locker](http://theherdlocker.com/) - 90% of Twitter conversations are noise. Free service tracks audience-selected hashtags filtering out retweets, requotes and people sharing the stuff you've already seen but which is obscured by URL shorteners - highlighting the popular, and leaders who share it early in realtime and as a weekly digest.
++ [ExportData](https://www.exportdata.io/) - No-code tool to download Twitter followers & followings, export historical tweets and historical trends.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
