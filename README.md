@@ -28,6 +28,7 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API.
 + [TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
 + [python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
++ [python-twitter-v2](https://github.com/sns-sdks/python-twitter) - A simple Python wrapper for Twitter API v2 sparkles cake sparkles.
 + [birdy](https://github.com/inueni/birdy) - A super awesome Twitter API client for Python.
 + [ParallelTweepy](https://github.com/uditarora/ParallelTweepy) - A parallel task scheduler for Tweepy.
 + [wp-twitter-tools](https://github.com/crowdfavorite/wp-twitter-tools) - A plugin that creates a complete integration between your WordPress blog and your Twitter account
