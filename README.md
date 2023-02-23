@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/hridaydutta123/awesome-twitter-tools.svg?branch=master)](https://travis-ci.org/hridaydutta123/awesome-twitter-tools) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hridaydutta123/awesome-twitter-tools) [![Join the chat at https://gitter.im/awesome-twitter-tools/Lobby](https://badges.gitter.im/awesome-twitter-tools/Lobby.svg)](https://gitter.im/awesome-twitter-tools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![HitCount](http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools.svg)](http://hits.dwyl.io/hridaydutta123/hridaydutta123/awesome-twitter-tools) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hridaydutta123/awesome-twitter-tools/issues) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/hridaydutta123) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1297511.svg)](https://zenodo.org/record/1297511) <img src="https://img.shields.io/badge/stars-50+-blue.svg"/>&nbsp;<img src="https://img.shields.io/badge/fork-10%2B-blue.svg"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hridaydutta123/awesome-twitter-tools) [![Join the chat at https://gitter.im/awesome-twitter-tools/Lobby](https://badges.gitter.im/awesome-twitter-tools/Lobby.svg)](https://gitter.im/awesome-twitter-tools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hridaydutta123/awesome-twitter-tools/issues) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/hridaydutta123) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1297511.svg)](https://zenodo.org/record/1297511) <img src="https://img.shields.io/badge/stars-150+-blue.svg"/>&nbsp;<img src="https://img.shields.io/badge/fork-25%2B-blue.svg"/>
 
 
 <!-- Head -->
@@ -10,7 +10,17 @@ This is a work in progress, so if you know of Twitter tools that are not mention
 # Citation
 Please cite this repository as:
 ```
-Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tools v1.0”. Zenodo, 25-Jun-2018.
+@software{hridoy_sankar_dutta_2018_1297511,
+  author       = {Hridoy Sankar Dutta and
+                  Pranay Mukherjee},
+  title        = {hridaydutta123/awesome-twitter-tools v1.0},
+  month        = jun,
+  year         = 2018,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.1297511},
+  url          = {https://doi.org/10.5281/zenodo.1297511}
+}
 ```
 
 ## Contents
