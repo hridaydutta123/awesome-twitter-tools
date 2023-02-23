@@ -73,7 +73,7 @@ Hridoy Sankar Dutta and Pranay Mukherjee, “hridaydutta123/awesome-twitter-tool
 + [HashPlug - Add Twitter Search to Google](https://chrome.google.com/webstore/detail/hashplug-add-twitter-sear/hfbojcndmfkenfoiaengklhlociepkef) - A Twitter Extension for Chrome that adds Realtime Twitter search results into Google in an unobtrusive manner.
 + [Twitter detector](https://chrome.google.com/webstore/detail/twitter-detector-detect-t/papcdbgfejihdinhieggiamjnkclhkck) - This extension adds a twitter icon into the url / address bar when it finds all twitter accounts for the page its on.
 + [Twitter Volume Control](https://chrome.google.com/webstore/detail/twitter-volume-control/geeghoallaenmelpkedpgjpllljkfeap) - Adds a volume slider to twitter videos
-
++ [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) - Download your favorite videos or images on Twitter.
 
 <!-- Research Papers -->
 ## Research Papers
