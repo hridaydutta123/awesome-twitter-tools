@@ -22,6 +22,10 @@ Please cite this repository as:
   url          = {https://doi.org/10.5281/zenodo.1297511}
 }
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hridaydutta123/awesome-twitter-tools&type=Date)](https://star-history.com/#hridaydutta123/awesome-twitter-tools&Date)
+
 
 ## Contents
 
