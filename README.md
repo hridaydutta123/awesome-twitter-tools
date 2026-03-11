@@ -64,6 +64,7 @@ Please cite this repository as:
 + [The Herd Locker](http://theherdlocker.com/) - 90% of Twitter conversations are noise. Free service tracks audience-selected hashtags filtering out retweets, requotes and people sharing the stuff you've already seen but which is obscured by URL shorteners - highlighting the popular, and leaders who share it early in realtime and as a weekly digest.
 + [ExportData](https://www.exportdata.io/) - No-code tool to download Twitter followers & followings, export historical tweets and historical trends.
 + [Twitter Purge](https://github.com/wslyvh/twitter-purge) - Automatically deletes old tweets from your timeline to reduce your digital footprint 🧹
++ [Xquik](https://xquik.com) - All-in-one X automation platform with REST API, MCP server & webhooks. 40+ tools for tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions and media download.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
