@@ -66,6 +66,8 @@ Please cite this repository as:
 + [Twitter Purge](https://github.com/wslyvh/twitter-purge) - Automatically deletes old tweets from your timeline to reduce your digital footprint 🧹
 + [Xquik](https://xquik.com) - All-in-one X automation platform with REST API, MCP server & webhooks. 40+ tools for tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions and media download.
 
++ [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 <!-- Browser Extensions -->
 ## Browser Extensions
 
