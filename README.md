@@ -65,7 +65,7 @@ Please cite this repository as:
 + [The Herd Locker](http://theherdlocker.com/) - 90% of Twitter conversations are noise. Free service tracks audience-selected hashtags filtering out retweets, requotes and people sharing the stuff you've already seen but which is obscured by URL shorteners - highlighting the popular, and leaders who share it early in realtime and as a weekly digest.
 + [ExportData](https://www.exportdata.io/) - No-code tool to download Twitter followers & followings, export historical tweets and historical trends.
 + [Twitter Purge](https://github.com/wslyvh/twitter-purge) - Automatically deletes old tweets from your timeline to reduce your digital footprint 🧹
-+ [Xquik](https://xquik.com) ([GitHub](https://github.com/Xquik-dev/tweetclaw)) - All-in-one X/Twitter automation platform. Post tweets, reply, like, retweet, follow, DM, search, extract data (20 tools), run giveaway draws, monitor accounts, compose optimized tweets, download media. REST API, MCP server, webhooks. OpenClaw plugin.
++ [Xquik](https://xquik.com) ([Developer skill, MCP server & SDKs](https://github.com/Xquik-dev/x-twitter-scraper)) - X/Twitter data and automation platform with REST API, MCP server, SDKs, HMAC webhooks, tweet search, user lookup, extraction jobs, monitors, giveaway draws, and guarded write workflows.
 
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
