@@ -66,6 +66,7 @@ Please cite this repository as:
 + [ExportData](https://www.exportdata.io/) - No-code tool to download Twitter followers & followings, export historical tweets and historical trends.
 + [Twitter Purge](https://github.com/wslyvh/twitter-purge) - Automatically deletes old tweets from your timeline to reduce your digital footprint 🧹
 + [Xquik](https://xquik.com) ([Developer skill, MCP server & SDKs](https://github.com/Xquik-dev/x-twitter-scraper)) - Twitter API alternative for tweet search, user tweets, follower export, user lookup, monitors, HMAC webhooks, MCP, SDKs, and write workflows.
++ [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws through Xquik.
 
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
@@ -157,5 +158,4 @@ Please cite this repository as:
 
 [license-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [license-url]: https://creativecommons.org/publicdomain/zero/1.0/
-
 
