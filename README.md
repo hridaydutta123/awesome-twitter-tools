@@ -39,6 +39,7 @@ Please cite this repository as:
 ## Tools
 
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
++ [TwitterAPI.io](https://twitterapi.io) - Real-time X (Twitter) data API providing tweets, profiles, search, and user lookups. Pay-as-you-go from $0.15 per 1K tweets, sub-500ms latency, 1000+ req/sec.
 + [Tweepy](https://github.com/tweepy/tweepy) - An easy-to-use Python library for accessing the Twitter API.
 + [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API.
 + [TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
