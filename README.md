@@ -70,6 +70,7 @@ Please cite this repository as:
 + [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws through Xquik.
 
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
++ [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, monospace) that paste into tweets and bios where Markdown isn't rendered.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
