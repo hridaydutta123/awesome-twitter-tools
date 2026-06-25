@@ -71,6 +71,7 @@ Please cite this repository as:
 
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 + [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, monospace) that paste into tweets and bios where Markdown isn't rendered.
++ [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) - Open-source build-in-public bot that drafts posts from your GitHub activity and publishes approved ones to X via the API. You review each draft on Telegram (✅/❌) before it goes out, and a guardrail strips secrets first. Self-hostable, MIT, Node.js.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
