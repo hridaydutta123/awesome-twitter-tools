@@ -73,6 +73,7 @@ Please cite this repository as:
 + [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, monospace) that paste into tweets and bios where Markdown isn't rendered.
 + [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) - Open-source build-in-public bot that drafts posts from your GitHub activity and publishes approved ones to X via the API. You review each draft on Telegram (✅/❌) before it goes out, and a guardrail strips secrets first. Self-hostable, MIT, Node.js.
 + [The Free X Growth Course](https://slappost.app/learn/) - Free, no-login course with 5 lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel.
++ [Encer](https://encer.me/en) - Interactive link-in-bio pages for X creators with polls, messages, giveaways, live updates, and privacy-aware analytics.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
