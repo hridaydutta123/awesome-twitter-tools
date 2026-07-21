@@ -68,6 +68,7 @@ Please cite this repository as:
 + [Twitter Purge](https://github.com/wslyvh/twitter-purge) - Automatically deletes old tweets from your timeline to reduce your digital footprint 🧹
 + [Xquik](https://xquik.com) ([Developer skill, MCP server & SDKs](https://github.com/Xquik-dev/x-twitter-scraper)) - Twitter API alternative for tweet search, user tweets, follower export, user lookup, monitors, HMAC webhooks, MCP, SDKs, and write workflows.
 + [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws through Xquik.
++ [tweet.md](https://tweet.md/) - Convert X posts, complete threads, long-form Articles, and profiles to clean, attributed Markdown for AI agents, research, and archives via a URL swap or API.
 
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 + [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, monospace) that paste into tweets and bios where Markdown isn't rendered.
