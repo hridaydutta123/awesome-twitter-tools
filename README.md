@@ -75,6 +75,7 @@ Please cite this repository as:
 + [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) - Open-source build-in-public bot that drafts posts from your GitHub activity and publishes approved ones to X via the API. You review each draft on Telegram (✅/❌) before it goes out, and a guardrail strips secrets first. Self-hostable, MIT, Node.js.
 + [The Free X Growth Course](https://slappost.app/learn/) - Free, no-login course with 5 lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel.
 + [X (Twitter) Marketing Skills](https://github.com/sergebulaev/x-skills) - Open-source Claude Code and Codex skill bundle to write tweets and threads with corpus-validated hook formulas, extract hooks from viral tweets, draft replies, and read your niche via Apify. MIT.
++ [twitter-archive-viewer](https://github.com/Deviloxide/twitter-archive-viewer) - A lightweight, private viewer for exploring and searching your downloaded Twitter (X) data archives offline.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
