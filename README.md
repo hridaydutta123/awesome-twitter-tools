@@ -102,6 +102,7 @@ Please cite this repository as:
 + [Twitter Volume Control](https://chrome.google.com/webstore/detail/twitter-volume-control/geeghoallaenmelpkedpgjpllljkfeap) - Adds a volume slider to twitter videos
 + [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) - Download your favorite videos or images on Twitter.
 + [Xbase — Twitter Bookmark Manager](https://chromewebstore.google.com/detail/xbase-%E2%80%94-get-more-out-of-x/ipldmffgjegnflofelcomladejjllfli?hl=en) - Upgrade your Twitter with our powerful twitter bookmark manager, with instant search, tags and note-taking.
++ [Not for You](https://chromewebstore.google.com/detail/not-for-you/pakdneaipkfgaahgbafblmdebfoadjca) - Turns off the For You timeline, trends and suggested accounts, so X stops deciding what you see. Does the same on YouTube, Instagram, TikTok, Reddit, LinkedIn, Threads and Facebook. Open source.
 
 <!-- Research Papers -->
 ## Research Papers
