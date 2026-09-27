@@ -108,6 +108,7 @@ Please cite this repository as:
 + [Xbase — Twitter Bookmark Manager](https://chromewebstore.google.com/detail/xbase-%E2%80%94-get-more-out-of-x/ipldmffgjegnflofelcomladejjllfli?hl=en) - Upgrade your Twitter with our powerful twitter bookmark manager, with instant search, tags and note-taking.
 + [Twitter Mark](https://chromewebstore.google.com/detail/twitter-mark/phoiffgkjjfnjfljnjgmpobmanghlaga) - A local-first X/Twitter bookmark and likes archive with read-only sync, search, tags, and JSON backup.
 + [Not for You](https://chromewebstore.google.com/detail/not-for-you/pakdneaipkfgaahgbafblmdebfoadjca) - Turns off the For You timeline, trends and suggested accounts, so X stops deciding what you see. Does the same on YouTube, Instagram, TikTok, Reddit, LinkedIn, Threads and Facebook. Open source.
++ [X Viral Monitor](https://chromewebstore.google.com/detail/x-viral-monitor/dkplofpecmjmbhgjgleeflcnfgfkdfpd) - Shows views per hour on every tweet and ranks the fastest-rising posts on the page, so you can spot viral tweets early. Open source.
 
 <!-- Research Papers -->
 ## Research Papers
