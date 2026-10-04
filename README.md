@@ -82,6 +82,7 @@ Please cite this repository as:
 + [X (Twitter) Marketing Skills](https://github.com/sergebulaev/x-skills) - Open-source Claude Code and Codex skill bundle to write tweets and threads with corpus-validated hook formulas, extract hooks from viral tweets, draft replies, and read your niche via Apify. MIT.
 + [twitter-archive-viewer](https://github.com/Deviloxide/twitter-archive-viewer) - A lightweight, private viewer for exploring and searching your downloaded Twitter (X) data archives offline.
 + [Postel](https://www.postel.app/postel-mcp-server) - Hosted MCP server and Claude plugin to research high-performing X posts, draft tweets and threads in your own voice, and schedule or publish them (also posts to LinkedIn).
++ [Cursive Text Generator](https://cursive-text-generator.net/) - Free tool that converts text into Unicode cursive and script letters you can paste into tweets, display names and bios. No signup.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
