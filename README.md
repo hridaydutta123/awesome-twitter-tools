@@ -91,7 +91,7 @@ Please cite this repository as:
 + [Notifier for Twitter](https://chrome.google.com/webstore/detail/notifier-for-twitter/ikknnkomiokeodcdkknnhgjmncfiefmn?&hl=en) - Brings new tweet notifications to Chrome 
 + [Twitter Web - Night Mode](https://chrome.google.com/webstore/detail/twitter-web-night-mode/cadmiljohldbooihfbkjkobepojailca?&hl=en) - Android/iOS like night mode for twitter web app
 + [Mass follow for Twitter](https://chrome.google.com/webstore/detail/mass-follow-for-twitter/lfmanfkmmgfigbnjibfemdnnfjboficn) - A feature-rich extension to mass follow and unfollow on Twitter.
-+ [Twitter View Original Images](https://chrome.google.com/webstore/detail/twitter-view-original-ima/bkpaljhmpehdbjkoahohlhkhlleaicel) - Open images in original size on Twitter.
++ [Bellevue](https://chromewebstore.google.com/detail/bellevue-image-viewer-hov/pcanfkjoeklodjkejejioenncaihechb) - Open X images at their original size with zoom and pan, and see any thumbnail full-size by holding Alt.
 + [Twitter Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/gnljhgbcmacopdfedmiaccgfijmnfppo) - Allows you to unfollow many users on Twitter with a simple click
 + [Bird Nest for Twitter](https://chrome.google.com/webstore/detail/bird-nest-for-twitter/cdoinklelehcpndgmcddkkdhibpoglnk) - The fastest way to tweet from Chrome
 + [Twitter Pixel Helper](https://chrome.google.com/webstore/detail/twitter-pixel-helper/jepminnlebllinfmkhfbkpckogoiefpd) - Displays an icon if there is a Twitter website tag on a given page
@@ -99,7 +99,6 @@ Please cite this repository as:
 + [EmojiPanel for Twitter (Previously EmojiT)](https://chrome.google.com/webstore/detail/emojipanel-for-twitter-pr/jfjmncmbmpnaljmmcmeefmkmionkojmd) - Emoji dropdown panel for twitter.com
 + [Share on Twitter](https://chrome.google.com/webstore/detail/share-on-twitter/gkjgmeeoldebbdoehhngapnlfmdbmiie) - Easily share current tab, links and selected text on Twitter, using toolbar button, keyboard command and context menu options.
 + [Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah) - Blocks all users on a following/followers page.
-+ [Twitter Large Images](https://chrome.google.com/webstore/detail/twitter-large-images/jajkeadlaiibpkpnnihopfalndpfioag) - Gets the large versions of images posted on Twitter.
 + [Easy for Twitter](https://chrome.google.com/webstore/detail/easy-for-twitter/lkbkfblojdaocdljndhaopfglpmboeki) - Twitter Lite for Chrome. Better then TweetDeck. Tweet to Web. Follow, Unfollow, Share, Download, Video, Like. Live Notifications.
 + [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) - Download images/videos of user's media-timeline on Twitter.
 + [Remove Promotions for Twitter](https://chrome.google.com/webstore/detail/remove-promotions-for-twi/anbilhcdogbnkeohnkdmlkhegmahngod) - Remove promoted Trends, Accounts, & Tweets from the Twitter website.
