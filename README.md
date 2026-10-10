@@ -84,6 +84,7 @@ Please cite this repository as:
 + [Postel](https://www.postel.app/postel-mcp-server) - Hosted MCP server and Claude plugin to research high-performing X posts, draft tweets and threads in your own voice, and schedule or publish them (also posts to LinkedIn).
 + [Cursive Text Generator](https://cursive-text-generator.net/) - Free tool that converts text into Unicode cursive and script letters you can paste into tweets, display names and bios. No signup.
 + [twtData](https://twtdata.com/) - Export the followers, following and tweets of public X accounts to CSV (paid per export), plus a free, dated archive of X trends by country and city that needs no sign-up.
++ [XActions](https://github.com/nirholas/XActions) - Open-source X/Twitter automation toolkit with an MCP server for AI agents, CLI, and browser scripts to scrape, follow, unfollow, and monitor accounts without the paid API.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
