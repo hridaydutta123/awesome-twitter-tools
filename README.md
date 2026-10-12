@@ -53,6 +53,7 @@ Please cite this repository as:
 + [ParallelTweepy](https://github.com/uditarora/ParallelTweepy) - A parallel task scheduler for Tweepy.
 + [wp-twitter-tools](https://github.com/crowdfavorite/wp-twitter-tools) - A plugin that creates a complete integration between your WordPress blog and your Twitter account
 + [QuickTwit](https://quicktwit.com/) - A tool to show trends in topics, and the ones originating from selective twitter accounts
++ [livepair-bots](https://github.com/livepairai/livepair-bots) - Zero-dependency Node templates that generate AI images/video via the LivePair API and post them to X — one-shot CLI plus n8n workflow.
 + [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 + [TwiFlux](https://twiflux.com/) - Free browser-based Twitter/X utilities for downloading, converting, and exporting tweets and threads to formats like JSON, CSV, Markdown, HTML, PDF, and TXT, plus media download and search tools.
 + [twitter-followers](https://github.com/ConradIrwin/twitter-followers) - A tool to download all a user's twitter followers
