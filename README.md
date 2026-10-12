@@ -86,6 +86,7 @@ Please cite this repository as:
 + [twtData](https://twtdata.com/) - Export the followers, following and tweets of public X accounts to CSV (paid per export), plus a free, dated archive of X trends by country and city that needs no sign-up.
 + [XActions](https://github.com/nirholas/XActions) - Open-source X/Twitter automation toolkit with an MCP server for AI agents, CLI, and browser scripts to scrape, follow, unfollow, and monitor accounts without the paid API.
 + [Remove Audio Video Compressor for X](https://remove-audio.com/tools/compress-video-for-x) - Free browser-based tool that re-encodes a video to the 1080p H.264 MP4 that X (Twitter) accepts, without uploading the file or signing up.
++ [X Vision](https://xvision.lol) - Reply-first growth tool for X: ranks fresh posts from accounts you choose so you can reply early in your own words (it never posts for you), then shows which replies paid off against your own history. Free tools include an AI Slop Score for your posts.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
@@ -113,6 +114,7 @@ Please cite this repository as:
 + [Twitter Mark](https://chromewebstore.google.com/detail/twitter-mark/phoiffgkjjfnjfljnjgmpobmanghlaga) - A local-first X/Twitter bookmark and likes archive with read-only sync, search, tags, and JSON backup.
 + [Not for You](https://chromewebstore.google.com/detail/not-for-you/pakdneaipkfgaahgbafblmdebfoadjca) - Turns off the For You timeline, trends and suggested accounts, so X stops deciding what you see. Does the same on YouTube, Instagram, TikTok, Reddit, LinkedIn, Threads and Facebook. Open source.
 + [X Viral Monitor](https://chromewebstore.google.com/detail/x-viral-monitor/dkplofpecmjmbhgjgleeflcnfgfkdfpd) - Shows views per hour on every tweet and ranks the fastest-rising posts on the page, so you can spot viral tweets early. Open source.
++ [X Vision for X](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd) - Adds an opportunity score and reasons to posts on x.com, a queue of fresh reply opportunities, and tracks your replies back to X Vision. Read-only; never posts for you.
 
 <!-- Research Papers -->
 ## Research Papers
