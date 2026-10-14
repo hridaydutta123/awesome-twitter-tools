@@ -90,7 +90,7 @@ Please cite this repository as:
 + [X Vision](https://xvision.lol) - Reply-first growth tool for X: ranks fresh posts from accounts you choose so you can reply early in your own words (it never posts for you), then shows which replies paid off against your own history. Free tools include an AI Slop Score for your posts.
 + [Shadowban Radar](https://shadowbanradar.com/) - Free shadowban test for any public Twitter (X) account, with no login or password: 4 checks (search suggestion ban, search ban, ghost ban, reply deboosting), a verdict, and a confidence level for each check.
 + [MD2X](https://markdown2x.com/markdown-to-x-articles) - Free, open-source browser tool that converts Markdown into rich text for X (Twitter) Articles, turning code blocks, tables and Mermaid diagrams into pasteable PNG images.
-+ [XChat Groups Directory](https://xchat.directory/groups) - Free, community-submitted directory of public XChat (X Chat) group links, sorted by topic. Browse and join groups without an account; anyone can submit a group.
++ [XChat Groups Directory](https://xchat.directory/groups) - Free, community-submitted directory of public XChat (X Chat) group links, sorted by topic. No sign-up needed to browse, and anyone can submit a group.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
