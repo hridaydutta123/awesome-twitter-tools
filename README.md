@@ -38,8 +38,12 @@ Please cite this repository as:
 <!-- Tools -->
 ## Tools
 
++ [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
+
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
 + [TwitterAPI.io](https://twitterapi.io) - Real-time X (Twitter) data API providing tweets, profiles, search, and user lookups. Pay-as-you-go from $0.15 per 1K tweets, sub-500ms latency, 1000+ req/sec.
++ [TweetAPI](https://tweetapi.com) - Third-party Twitter API for public posts, profiles, followers, search, and account workflows, with REST, Node/Python SDKs, and hosted MCP for read-only agent access. Start with 100 free requests; paid plans from $17/month.
++ [Twitee](https://twitee.co/twitter-video-downloader) - Free Twitter video downloader for public X posts. Paste a post URL to download Twitter video and GIF files without an account or sign-in.
 + [Tweepy](https://github.com/tweepy/tweepy) - An easy-to-use Python library for accessing the Twitter API.
 + [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API.
 + [TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
@@ -50,6 +54,7 @@ Please cite this repository as:
 + [wp-twitter-tools](https://github.com/crowdfavorite/wp-twitter-tools) - A plugin that creates a complete integration between your WordPress blog and your Twitter account
 + [QuickTwit](https://quicktwit.com/) - A tool to show trends in topics, and the ones originating from selective twitter accounts
 + [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
++ [TwiFlux](https://twiflux.com/) - Free browser-based Twitter/X utilities for downloading, converting, and exporting tweets and threads to formats like JSON, CSV, Markdown, HTML, PDF, and TXT, plus media download and search tools.
 + [twitter-followers](https://github.com/ConradIrwin/twitter-followers) - A tool to download all a user's twitter followers
 + [twitter-leaderboard](https://github.com/twitterdev/twitter-leaderboard) - Tool to do engagement-based scoring of Twitter usage based on lists of users
 + [twitter-tap](https://github.com/janezkranjc/twitter-tap) - A python tool for collecting tweets in mongoDB using the search API
@@ -68,12 +73,23 @@ Please cite this repository as:
 + [Twitter Purge](https://github.com/wslyvh/twitter-purge) - Automatically deletes old tweets from your timeline to reduce your digital footprint 🧹
 + [Xquik](https://xquik.com) ([Developer skill, MCP server & SDKs](https://github.com/Xquik-dev/x-twitter-scraper)) - Twitter API alternative for tweet search, user tweets, follower export, user lookup, monitors, HMAC webhooks, MCP, SDKs, and write workflows.
 + [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws through Xquik.
-
++ [tweet.md](https://tweet.md/) - Convert X posts, complete threads, long-form Articles, and profiles to clean, attributed Markdown for AI agents, research, and archives via a URL swap or API.
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 + [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, monospace) that paste into tweets and bios where Markdown isn't rendered.
 + [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) - Open-source build-in-public bot that drafts posts from your GitHub activity and publishes approved ones to X via the API. You review each draft on Telegram (✅/❌) before it goes out, and a guardrail strips secrets first. Self-hostable, MIT, Node.js.
 + [The Free X Growth Course](https://slappost.app/learn/) - Free, no-login course with 5 lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel.
-+ + [XTapDown](https://xtapdown.com) - Free X (Twitter) creator toolkit — video/GIF/image downloader, tweet screenshot, thread reader, hook library, engagement calculator, 40-niche hashtag library, best-time-to-post for 16 countries. No signup. Also ships as an MCP server ([xtapdown-mcp](https://github.com/farukkolip/xtapdown-mcp)).
++ [XTapDown](https://xtapdown.com) - Free X (Twitter) creator toolkit — video/GIF/image downloader, tweet screenshot, thread reader, hook library, engagement calculator, 40-niche hashtag library, best-time-to-post for 16 countries. No signup. Also ships as an MCP server ([xtapdown-mcp](https://github.com/farukkolip/xtapdown-mcp)).
++ [X (Twitter) Marketing Skills](https://github.com/sergebulaev/x-skills) - Open-source Claude Code and Codex skill bundle to write tweets and threads with corpus-validated hook formulas, extract hooks from viral tweets, draft replies, and read your niche via Apify. MIT.
++ [twitter-archive-viewer](https://github.com/Deviloxide/twitter-archive-viewer) - A lightweight, private viewer for exploring and searching your downloaded Twitter (X) data archives offline.
++ [Postel](https://www.postel.app/postel-mcp-server) - Hosted MCP server and Claude plugin to research high-performing X posts, draft tweets and threads in your own voice, and schedule or publish them (also posts to LinkedIn).
++ [Cursive Text Generator](https://cursive-text-generator.net/) - Free tool that converts text into Unicode cursive and script letters you can paste into tweets, display names and bios. No signup.
++ [twtData](https://twtdata.com/) - Export the followers, following and tweets of public X accounts to CSV (paid per export), plus a free, dated archive of X trends by country and city that needs no sign-up.
++ [BulkPublish](https://www.bulkpublish.com) - Schedule, cross-post and analyze X (Twitter) posts and threads alongside 14 other platforms (Bluesky, Threads, LinkedIn, Instagram and more), with a REST API and hosted MCP server for AI agents. Free plan available.
++ [XActions](https://github.com/nirholas/XActions) - Open-source X/Twitter automation toolkit with an MCP server for AI agents, CLI, and browser scripts to scrape, follow, unfollow, and monitor accounts without the paid API.
++ [Remove Audio Video Compressor for X](https://remove-audio.com/tools/compress-video-for-x) - Free browser-based tool that re-encodes a video to the 1080p H.264 MP4 that X (Twitter) accepts, without uploading the file or signing up.
++ [X Vision](https://xvision.lol) - Reply-first growth tool for X: ranks fresh posts from accounts you choose so you can reply early in your own words (it never posts for you), then shows which replies paid off against your own history. Free tools include an AI Slop Score for your posts.
++ [Shadowban Radar](https://shadowbanradar.com/) - Free shadowban test for any public Twitter (X) account, with no login or password: 4 checks (search suggestion ban, search ban, ghost ban, reply deboosting), a verdict, and a confidence level for each check.
++ [MD2X](https://markdown2x.com/markdown-to-x-articles) - Free, open-source browser tool that converts Markdown into rich text for X (Twitter) Articles, turning code blocks, tables and Mermaid diagrams into pasteable PNG images.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
@@ -82,7 +98,7 @@ Please cite this repository as:
 + [Notifier for Twitter](https://chrome.google.com/webstore/detail/notifier-for-twitter/ikknnkomiokeodcdkknnhgjmncfiefmn?&hl=en) - Brings new tweet notifications to Chrome 
 + [Twitter Web - Night Mode](https://chrome.google.com/webstore/detail/twitter-web-night-mode/cadmiljohldbooihfbkjkobepojailca?&hl=en) - Android/iOS like night mode for twitter web app
 + [Mass follow for Twitter](https://chrome.google.com/webstore/detail/mass-follow-for-twitter/lfmanfkmmgfigbnjibfemdnnfjboficn) - A feature-rich extension to mass follow and unfollow on Twitter.
-+ [Twitter View Original Images](https://chrome.google.com/webstore/detail/twitter-view-original-ima/bkpaljhmpehdbjkoahohlhkhlleaicel) - Open images in original size on Twitter.
++ [Bellevue](https://chromewebstore.google.com/detail/bellevue-image-viewer-hov/pcanfkjoeklodjkejejioenncaihechb) - Open X images at their original size with zoom and pan, and see any thumbnail full-size by holding Alt.
 + [Twitter Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/gnljhgbcmacopdfedmiaccgfijmnfppo) - Allows you to unfollow many users on Twitter with a simple click
 + [Bird Nest for Twitter](https://chrome.google.com/webstore/detail/bird-nest-for-twitter/cdoinklelehcpndgmcddkkdhibpoglnk) - The fastest way to tweet from Chrome
 + [Twitter Pixel Helper](https://chrome.google.com/webstore/detail/twitter-pixel-helper/jepminnlebllinfmkhfbkpckogoiefpd) - Displays an icon if there is a Twitter website tag on a given page
@@ -90,7 +106,6 @@ Please cite this repository as:
 + [EmojiPanel for Twitter (Previously EmojiT)](https://chrome.google.com/webstore/detail/emojipanel-for-twitter-pr/jfjmncmbmpnaljmmcmeefmkmionkojmd) - Emoji dropdown panel for twitter.com
 + [Share on Twitter](https://chrome.google.com/webstore/detail/share-on-twitter/gkjgmeeoldebbdoehhngapnlfmdbmiie) - Easily share current tab, links and selected text on Twitter, using toolbar button, keyboard command and context menu options.
 + [Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah) - Blocks all users on a following/followers page.
-+ [Twitter Large Images](https://chrome.google.com/webstore/detail/twitter-large-images/jajkeadlaiibpkpnnihopfalndpfioag) - Gets the large versions of images posted on Twitter.
 + [Easy for Twitter](https://chrome.google.com/webstore/detail/easy-for-twitter/lkbkfblojdaocdljndhaopfglpmboeki) - Twitter Lite for Chrome. Better then TweetDeck. Tweet to Web. Follow, Unfollow, Share, Download, Video, Like. Live Notifications.
 + [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) - Download images/videos of user's media-timeline on Twitter.
 + [Remove Promotions for Twitter](https://chrome.google.com/webstore/detail/remove-promotions-for-twi/anbilhcdogbnkeohnkdmlkhegmahngod) - Remove promoted Trends, Accounts, & Tweets from the Twitter website.
@@ -99,6 +114,10 @@ Please cite this repository as:
 + [Twitter Volume Control](https://chrome.google.com/webstore/detail/twitter-volume-control/geeghoallaenmelpkedpgjpllljkfeap) - Adds a volume slider to twitter videos
 + [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) - Download your favorite videos or images on Twitter.
 + [Xbase — Twitter Bookmark Manager](https://chromewebstore.google.com/detail/xbase-%E2%80%94-get-more-out-of-x/ipldmffgjegnflofelcomladejjllfli?hl=en) - Upgrade your Twitter with our powerful twitter bookmark manager, with instant search, tags and note-taking.
++ [Twitter Mark](https://chromewebstore.google.com/detail/twitter-mark/phoiffgkjjfnjfljnjgmpobmanghlaga) - A local-first X/Twitter bookmark and likes archive with read-only sync, search, tags, and JSON backup.
++ [Not for You](https://chromewebstore.google.com/detail/not-for-you/pakdneaipkfgaahgbafblmdebfoadjca) - Turns off the For You timeline, trends and suggested accounts, so X stops deciding what you see. Does the same on YouTube, Instagram, TikTok, Reddit, LinkedIn, Threads and Facebook. Open source.
++ [X Viral Monitor](https://chromewebstore.google.com/detail/x-viral-monitor/dkplofpecmjmbhgjgleeflcnfgfkdfpd) - Shows views per hour on every tweet and ranks the fastest-rising posts on the page, so you can spot viral tweets early. Open source.
++ [X Vision for X](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd) - Adds an opportunity score and reasons to posts on x.com, a queue of fresh reply opportunities, and tracks your replies back to X Vision. Read-only; never posts for you.
 
 <!-- Research Papers -->
 ## Research Papers
