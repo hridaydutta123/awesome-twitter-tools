@@ -74,11 +74,11 @@ Please cite this repository as:
 + [Xquik](https://xquik.com) ([Developer skill, MCP server & SDKs](https://github.com/Xquik-dev/x-twitter-scraper)) - Twitter API alternative for tweet search, user tweets, follower export, user lookup, monitors, HMAC webhooks, MCP, SDKs, and write workflows.
 + [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws through Xquik.
 + [tweet.md](https://tweet.md/) - Convert X posts, complete threads, long-form Articles, and profiles to clean, attributed Markdown for AI agents, research, and archives via a URL swap or API.
-
 + [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 + [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, monospace) that paste into tweets and bios where Markdown isn't rendered.
 + [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) - Open-source build-in-public bot that drafts posts from your GitHub activity and publishes approved ones to X via the API. You review each draft on Telegram (✅/❌) before it goes out, and a guardrail strips secrets first. Self-hostable, MIT, Node.js.
 + [The Free X Growth Course](https://slappost.app/learn/) - Free, no-login course with 5 lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel.
++ [XTapDown](https://xtapdown.com) - Free X (Twitter) creator toolkit — video/GIF/image downloader, tweet screenshot, thread reader, hook library, engagement calculator, 40-niche hashtag library, best-time-to-post for 16 countries. No signup. Also ships as an MCP server ([xtapdown-mcp](https://github.com/farukkolip/xtapdown-mcp)).
 + [X (Twitter) Marketing Skills](https://github.com/sergebulaev/x-skills) - Open-source Claude Code and Codex skill bundle to write tweets and threads with corpus-validated hook formulas, extract hooks from viral tweets, draft replies, and read your niche via Apify. MIT.
 + [twitter-archive-viewer](https://github.com/Deviloxide/twitter-archive-viewer) - A lightweight, private viewer for exploring and searching your downloaded Twitter (X) data archives offline.
 + [Postel](https://www.postel.app/postel-mcp-server) - Hosted MCP server and Claude plugin to research high-performing X posts, draft tweets and threads in your own voice, and schedule or publish them (also posts to LinkedIn).
