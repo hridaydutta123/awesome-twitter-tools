@@ -43,6 +43,7 @@ Please cite this repository as:
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
 + [TwitterAPI.io](https://twitterapi.io) - Real-time X (Twitter) data API providing tweets, profiles, search, and user lookups. Pay-as-you-go from $0.15 per 1K tweets, sub-500ms latency, 1000+ req/sec.
 + [TweetAPI](https://tweetapi.com) - Third-party Twitter API for public posts, profiles, followers, search, and account workflows, with REST, Node/Python SDKs, and hosted MCP for read-only agent access. Start with 100 free requests; paid plans from $17/month.
++ [TwitterAPIs](https://www.twitterapis.com) - Pay-per-call X/Twitter data API with 112 endpoints (tweet search, profiles, followers, timelines, posting, DMs) behind one API key: $0.0008 a call, about 20 tweets per read, no X developer account; ships an open-source MCP server for agents.
 + [Twitee](https://twitee.co/twitter-video-downloader) - Free Twitter video downloader for public X posts. Paste a post URL to download Twitter video and GIF files without an account or sign-in.
 + [Tweepy](https://github.com/tweepy/tweepy) - An easy-to-use Python library for accessing the Twitter API.
 + [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API.
