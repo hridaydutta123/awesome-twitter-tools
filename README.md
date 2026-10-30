@@ -90,6 +90,10 @@ Please cite this repository as:
 + [X Vision](https://xvision.lol) - Reply-first growth tool for X: ranks fresh posts from accounts you choose so you can reply early in your own words (it never posts for you), then shows which replies paid off against your own history. Free tools include an AI Slop Score for your posts.
 + [Shadowban Radar](https://shadowbanradar.com/) - Free shadowban test for any public Twitter (X) account, with no login or password: 4 checks (search suggestion ban, search ban, ghost ban, reply deboosting), a verdict, and a confidence level for each check.
 + [MD2X](https://markdown2x.com/markdown-to-x-articles) - Free, open-source browser tool that converts Markdown into rich text for X (Twitter) Articles, turning code blocks, tables and Mermaid diagrams into pasteable PNG images.
++ [X (Twitter) Font Generator by JuzPost](https://www.juzpost.com/tools/x-font-generator) - Free tool that turns text into bold, italic, cursive and fancy Unicode styles that paste into X posts, bios and display names, with a live counter for the 280-character post limit. No signup.
++ [X (Twitter) Character Counter by JuzPost](https://www.juzpost.com/tools/x-character-counter) - Free 280-limit counter that uses X's weighted rules: every link counts as 23 characters and every emoji as 2. No signup.
++ [X Media Checker by JuzPost](https://www.juzpost.com/tools/x-media-checker) - Free browser check of a photo or video's real file type, size, dimensions and duration against X's upload limits before you post. Nothing is uploaded.
++ [X (Twitter) Photo Resizer by JuzPost](https://www.juzpost.com/tools/x-photo-resizer) - Free in-browser resizer for exact X sizes: 1500x500 header, 400x400 profile photo and 16:9 post images.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
