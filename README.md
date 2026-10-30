@@ -122,6 +122,7 @@ Please cite this repository as:
 + [Not for You](https://chromewebstore.google.com/detail/not-for-you/pakdneaipkfgaahgbafblmdebfoadjca) - Turns off the For You timeline, trends and suggested accounts, so X stops deciding what you see. Does the same on YouTube, Instagram, TikTok, Reddit, LinkedIn, Threads and Facebook. Open source.
 + [X Viral Monitor](https://chromewebstore.google.com/detail/x-viral-monitor/dkplofpecmjmbhgjgleeflcnfgfkdfpd) - Shows views per hour on every tweet and ranks the fastest-rising posts on the page, so you can spot viral tweets early. Open source.
 + [X Vision for X](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd) - Adds an opportunity score and reasons to posts on x.com, a queue of fresh reply opportunities, and tracks your replies back to X Vision. Read-only; never posts for you.
++ [Smart Filter](https://smartfilter.net/twitter-x-filter) - Hides posts and replies on X that match your rules: keyword rules such as giveaway\*, or AI rules in plain English such as engagement bait. Hidden posts are one click away.
 + [Yeet](https://chromewebstore.google.com/detail/knbfidiiikhjebpijhafdikkjhbgbefe) - Cross-posts between X and Threads in both directions, with text and up to 4 images. Runs locally in your browser with no API keys. Free and open source.
 
 <!-- Research Papers -->
