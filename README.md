@@ -46,6 +46,7 @@ Please cite this repository as:
 + [TwitterAPIs](https://www.twitterapis.com) - Pay-per-call X/Twitter data API with 112 endpoints (tweet search, profiles, followers, timelines, posting, DMs) behind one API key: $0.0008 a call, about 20 tweets per read, no X developer account; ships an open-source MCP server for agents.
 + [TweetAPI](https://tweetapi.com) - Third-party Twitter API for public posts, profiles, followers, search, and account workflows, with REST, Node/Python SDKs, and hosted MCP for read-only agent access. Start with 100 free requests, then pay as you go from $5 or pick a monthly plan from $17.
 + [xdataapi.io](https://xdataapi.io) - Read-only X (Twitter) data API: profiles, tweets, threads, replies, followers and search with x.com operators. One credit per item, from $0.06 per 1,000, 5,000 free credits, credits never expire. Hosted MCP server, OpenAPI 3.1, TypeScript and Python SDKs.
++ [LurkAPI](https://lurkapi.com/docs/twitter) - REST API and MCP server for public X (Twitter) data without an X developer account: one tweet with its likes, views and media, a profile with exact follower counts, and an account's recent tweets, as JSON. 1 credit a call, from $0.45 per 1,000 calls; 100 free credits to start.
 + [Twitee](https://twitee.co/twitter-video-downloader) - Free Twitter video downloader for public X posts. Paste a post URL to download Twitter video and GIF files without an account or sign-in.
 + [Tweepy](https://github.com/tweepy/tweepy) - An easy-to-use Python library for accessing the Twitter API.
 + [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API.
@@ -101,6 +102,8 @@ Please cite this repository as:
 + [X Media Checker by JuzPost](https://www.juzpost.com/tools/x-media-checker) - Free browser check of a photo or video's real file type, size, dimensions and duration against X's upload limits before you post. Nothing is uploaded.
 + [X (Twitter) Photo Resizer by JuzPost](https://www.juzpost.com/tools/x-photo-resizer) - Free in-browser resizer for exact X sizes: 1500x500 header, 400x400 profile photo and 16:9 post images.
 
++ [XCircle](https://xcircle.me) - Free web tool that turns recent public X (Twitter) interactions into a circle image, with customizable layouts and PNG download. No X sign-in required.
+
 <!-- Browser Extensions -->
 ## Browser Extensions
 
@@ -130,6 +133,7 @@ Please cite this repository as:
 + [X Vision for X](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd) - Adds an opportunity score and reasons to posts on x.com, a queue of fresh reply opportunities, and tracks your replies back to X Vision. Read-only; never posts for you.
 + [Smart Filter](https://smartfilter.net/twitter-x-filter) - Hides posts and replies on X that match your rules: keyword rules such as giveaway\*, or AI rules in plain English such as engagement bait. Hidden posts are one click away.
 + [Yeet](https://chromewebstore.google.com/detail/knbfidiiikhjebpijhafdikkjhbgbefe) - Cross-posts between X and Threads in both directions, with text and up to 4 images. Runs locally in your browser with no API keys. Free and open source.
++ [Muffle](https://usemuffle.com) - Turns off the X feed while posting, replies and DMs keep working, with an optional daily limit. Also hides people by the words in their bio, shows who unfollowed you and searches your bookmarks. Runs locally, no login. Freemium.
 
 <!-- Research Papers -->
 ## Research Papers
