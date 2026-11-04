@@ -100,6 +100,8 @@ Please cite this repository as:
 + [X Media Checker by JuzPost](https://www.juzpost.com/tools/x-media-checker) - Free browser check of a photo or video's real file type, size, dimensions and duration against X's upload limits before you post. Nothing is uploaded.
 + [X (Twitter) Photo Resizer by JuzPost](https://www.juzpost.com/tools/x-photo-resizer) - Free in-browser resizer for exact X sizes: 1500x500 header, 400x400 profile photo and 16:9 post images.
 
++ [XCircle](https://xcircle.me) - Free web tool that turns recent public X (Twitter) interactions into a circle image, with customizable layouts and PNG download. No X sign-in required.
+
 <!-- Browser Extensions -->
 ## Browser Extensions
 
