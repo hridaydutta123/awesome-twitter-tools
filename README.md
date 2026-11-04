@@ -103,6 +103,7 @@ Please cite this repository as:
 + [X (Twitter) Photo Resizer by JuzPost](https://www.juzpost.com/tools/x-photo-resizer) - Free in-browser resizer for exact X sizes: 1500x500 header, 400x400 profile photo and 16:9 post images.
 
 + [XCircle](https://xcircle.me) - Free web tool that turns recent public X (Twitter) interactions into a circle image, with customizable layouts and PNG download. No X sign-in required.
++ [Echoly](https://echoly.2cstudio.app) - Schedule X (Twitter) posts and threads alongside Telegram channels, Bluesky, Mastodon and Discord, with a JSON API and a remote MCP server for AI apps. Free plan (30 posts/month, 10 on X); paid plans from $8/month.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
