@@ -132,6 +132,7 @@ Please cite this repository as:
 + [X Vision for X](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd) - Adds an opportunity score and reasons to posts on x.com, a queue of fresh reply opportunities, and tracks your replies back to X Vision. Read-only; never posts for you.
 + [Smart Filter](https://smartfilter.net/twitter-x-filter) - Hides posts and replies on X that match your rules: keyword rules such as giveaway\*, or AI rules in plain English such as engagement bait. Hidden posts are one click away.
 + [Yeet](https://chromewebstore.google.com/detail/knbfidiiikhjebpijhafdikkjhbgbefe) - Cross-posts between X and Threads in both directions, with text and up to 4 images. Runs locally in your browser with no API keys. Free and open source.
++ [Muffle](https://usemuffle.com) - Turns off the X feed while posting, replies and DMs keep working, with an optional daily limit. Also hides people by the words in their bio, shows who unfollowed you and searches your bookmarks. Runs locally, no login. Freemium.
 
 <!-- Research Papers -->
 ## Research Papers
