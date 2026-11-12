@@ -38,6 +38,7 @@ Please cite this repository as:
 <!-- Tools -->
 ## Tools
 
++ [Statuz](https://statuz.app) - Schedule and publish posts and threads to X, Bluesky, Mastodon, LinkedIn and Reddit from a Mac app, a CLI or an AI agent over MCP. Free on your own computer, with your own X developer app.
 + [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
 + [TwitterAPI.io](https://twitterapi.io) - Real-time X (Twitter) data API providing tweets, profiles, search, and user lookups. Pay-as-you-go from $0.15 per 1K tweets, sub-500ms latency, 1000+ req/sec.
