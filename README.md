@@ -104,6 +104,7 @@ Please cite this repository as:
 
 + [XCircle](https://xcircle.me) - Free web tool that turns recent public X (Twitter) interactions into a circle image, with customizable layouts and PNG download. No X sign-in required.
 + [Echoly](https://echoly.2cstudio.app) - Schedule X (Twitter) posts and threads alongside Telegram channels, Bluesky, Mastodon and Discord, with a JSON API and a remote MCP server for AI apps. Free plan (30 posts/month, 10 on X); paid plans from $8/month.
++ [looot-mentions](https://github.com/loootai/looot-mentions) - Open-source (MIT) brand and keyword listening across X, Reddit, Hacker News, news, YouTube and the web, with sentiment, intent and a daily digest. An alternative to Brand24 and Mention. Live searches need a paid looot API key; a demo mode runs without one.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
