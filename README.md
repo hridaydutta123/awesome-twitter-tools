@@ -38,6 +38,7 @@ Please cite this repository as:
 <!-- Tools -->
 ## Tools
 
++ [Transformer.gg](https://transformer.gg/?utm_source=github-awesome-twitter-tools&utm_medium=referral&utm_campaign=backlinks&utm_content=listing) - Marketplace for paid sponsored posts on X. Brands find creators, send offers and track each post; creators see the value of one sponsored post on their account. Free to join, 20% fee on paid offers, with an MCP server for AI agents.
 + [Statuz](https://statuz.app) - Schedule and publish posts and threads to X, Bluesky, Mastodon, LinkedIn and Reddit from a Mac app, a CLI or an AI agent over MCP. Free on your own computer, with your own X developer app.
 + [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
