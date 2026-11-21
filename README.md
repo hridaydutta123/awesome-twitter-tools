@@ -38,6 +38,7 @@ Please cite this repository as:
 <!-- Tools -->
 ## Tools
 
++ [XCROP](https://xcrop.io) - X/Twitter data API with 58 REST endpoints for profiles, tweets, search, followers, trends and posting, plus interaction checks. Free tier with 5,000 credits a month, credit-based pricing charged per result, and official SDKs for JavaScript, Python and Go.
 + [Statuz](https://statuz.app) - Schedule and publish posts and threads to X, Bluesky, Mastodon, LinkedIn and Reddit from a Mac app, a CLI or an AI agent over MCP. Free on your own computer, with your own X developer app.
 + [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
