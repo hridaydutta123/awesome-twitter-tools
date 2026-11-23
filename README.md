@@ -39,6 +39,7 @@ Please cite this repository as:
 ## Tools
 
 + [XCROP](https://xcrop.io) - X/Twitter data API with 58 REST endpoints for profiles, tweets, search, followers, trends and posting, plus interaction checks. Free tier with 10,000 credits a month, credit-based pricing charged per result, and official SDKs for JavaScript, Python and Go.
++ [Transformer.gg](https://transformer.gg/?utm_source=github-awesome-twitter-tools&utm_medium=referral&utm_campaign=backlinks&utm_content=listing) - Marketplace for paid sponsored posts on X. Brands find creators, send offers and track each post; creators see the value of one sponsored post on their account. Free to join, 20% fee on paid offers, with an MCP server for AI agents.
 + [Statuz](https://statuz.app) - Schedule and publish posts and threads to X, Bluesky, Mastodon, LinkedIn and Reddit from a Mac app, a CLI or an AI agent over MCP. Free on your own computer, with your own X developer app.
 + [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
 + [Sorsa API](https://docs.sorsa.io) - A real-time X (Twitter) data API providing tweets, profiles, search, communities and verification. Up to 50x cheaper than the official X API.
@@ -49,6 +50,7 @@ Please cite this repository as:
 + [TweetAPI](https://tweetapi.com) - Third-party Twitter API for public posts, profiles, followers, search, and account workflows, with REST, Node/Python SDKs, and hosted MCP for read-only agent access. Start with 100 free requests, then pay as you go from $5 or pick a monthly plan from $17.
 + [xdataapi.io](https://xdataapi.io) - Read-only X (Twitter) data API: profiles, tweets, threads, replies, followers and search with x.com operators. One credit per item, from $0.06 per 1,000, 5,000 free credits, credits never expire. Hosted MCP server, OpenAPI 3.1, TypeScript and Python SDKs.
 + [LurkAPI](https://lurkapi.com/docs/twitter) - REST API and MCP server for public X (Twitter) data without an X developer account: one tweet with its likes, views and media, a profile with exact follower counts, and an account's recent tweets, as JSON. 1 credit a call, from $0.45 per 1,000 calls; 100 free credits to start.
++ [Social Fetch](https://www.socialfetch.dev) - Pay as you go API for public X (Twitter) profiles, posts and search results as JSON, with a hosted MCP server for AI agents. The same API also covers TikTok, Instagram, YouTube, Reddit and LinkedIn. 100 free credits on signup, no card.
 + [Twitee](https://twitee.co/twitter-video-downloader) - Free Twitter video downloader for public X posts. Paste a post URL to download Twitter video and GIF files without an account or sign-in.
 + [Tweepy](https://github.com/tweepy/tweepy) - An easy-to-use Python library for accessing the Twitter API.
 + [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API.
@@ -107,6 +109,7 @@ Please cite this repository as:
 + [XCircle](https://xcircle.me) - Free web tool that turns recent public X (Twitter) interactions into a circle image, with customizable layouts and PNG download. No X sign-in required.
 + [Echoly](https://echoly.2cstudio.app) - Schedule X (Twitter) posts and threads alongside Telegram channels, Bluesky, Mastodon and Discord, with a JSON API and a remote MCP server for AI apps. Free plan (30 posts/month, 10 on X); paid plans from $8/month.
 + [looot-mentions](https://github.com/loootai/looot-mentions) - Open-source (MIT) brand and keyword listening across X, Reddit, Hacker News, news, YouTube and the web, with sentiment, intent and a daily digest. An alternative to Brand24 and Mention. Live searches need a paid looot API key; a demo mode runs without one.
++ [Sponge Thread Reader](https://sponge.computer/tools/thread-reader) - Free web tool that unrolls an X (Twitter) thread from its link into one page you can copy as Markdown or save as a PDF. Also reads Threads, Bluesky and Hacker News threads. No signup.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
@@ -138,6 +141,7 @@ Please cite this repository as:
 + [Smart Filter](https://smartfilter.net/twitter-x-filter) - Hides posts and replies on X that match your rules: keyword rules such as giveaway\*, or AI rules in plain English such as engagement bait. Hidden posts are one click away.
 + [Yeet](https://chromewebstore.google.com/detail/knbfidiiikhjebpijhafdikkjhbgbefe) - Cross-posts between X and Threads in both directions, with text and up to 4 images. Runs locally in your browser with no API keys. Free and open source.
 + [Muffle](https://usemuffle.com) - Turns off the X feed while posting, replies and DMs keep working, with an optional daily limit. Also hides people by the words in their bio, shows who unfollowed you and searches your bookmarks. Runs locally, no login. Freemium.
++ [Creel](https://chromewebstore.google.com/detail/beildllmkhjnebibpaenchhkoalacgkk?utm_source=awesome-twitter-tools&utm_medium=directory&utm_campaign=listing) - Exports your X bookmarks with folders, likes, posts, followers and lists to CSV, Excel and JSON, locally in your browser. Free up to 1,000 records per export; paid plans are one-time.
 
 <!-- Research Papers -->
 ## Research Papers
