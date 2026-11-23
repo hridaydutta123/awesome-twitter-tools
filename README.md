@@ -138,6 +138,7 @@ Please cite this repository as:
 + [Smart Filter](https://smartfilter.net/twitter-x-filter) - Hides posts and replies on X that match your rules: keyword rules such as giveaway\*, or AI rules in plain English such as engagement bait. Hidden posts are one click away.
 + [Yeet](https://chromewebstore.google.com/detail/knbfidiiikhjebpijhafdikkjhbgbefe) - Cross-posts between X and Threads in both directions, with text and up to 4 images. Runs locally in your browser with no API keys. Free and open source.
 + [Muffle](https://usemuffle.com) - Turns off the X feed while posting, replies and DMs keep working, with an optional daily limit. Also hides people by the words in their bio, shows who unfollowed you and searches your bookmarks. Runs locally, no login. Freemium.
++ [Creel](https://chromewebstore.google.com/detail/beildllmkhjnebibpaenchhkoalacgkk?utm_source=awesome-twitter-tools&utm_medium=directory&utm_campaign=listing) - Exports your X bookmarks with folders, likes, posts, followers and lists to CSV, Excel and JSON, locally in your browser. Free up to 1,000 records per export; paid plans are one-time.
 
 <!-- Research Papers -->
 ## Research Papers
