@@ -111,6 +111,7 @@ Please cite this repository as:
 + [looot-mentions](https://github.com/loootai/looot-mentions) - Open-source (MIT) brand and keyword listening across X, Reddit, Hacker News, news, YouTube and the web, with sentiment, intent and a daily digest. An alternative to Brand24 and Mention. Live searches need a paid looot API key; a demo mode runs without one.
 + [Octopost](https://octopost.ink/?ref=awesome-twitter-tools) - Hosted MCP server and REST API for posting to X from Claude Code, Cursor or a script: native threads, scheduling, a drip queue and a human approval step before anything goes out. Also posts to Bluesky, Mastodon and LinkedIn. Paid, 7-day trial for $1.
 + [Sponge Thread Reader](https://sponge.computer/tools/thread-reader) - Free web tool that unrolls an X (Twitter) thread from its link into one page you can copy as Markdown or save as a PDF. Also reads Threads, Bluesky and Hacker News threads. No signup.
++ [X Media Downloader](https://spacedownloader.io) - Free web tool that downloads X (Twitter) videos in original quality, Spaces and broadcasts as MP3 (live Spaces are recorded as they air), GIFs as MP4 and full-size images. No account or X login.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
