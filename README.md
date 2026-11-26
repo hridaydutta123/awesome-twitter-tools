@@ -113,6 +113,7 @@ Please cite this repository as:
 + [Sponge Thread Reader](https://sponge.computer/tools/thread-reader) - Free web tool that unrolls an X (Twitter) thread from its link into one page you can copy as Markdown or save as a PDF. Also reads Threads, Bluesky and Hacker News threads. No signup.
 + [Caption Character Counter](https://bestlatestapps.com/tools/caption-counter/) - Free browser counter for characters, words, hashtags and mentions against the X (Twitter) post limit, with Instagram, TikTok, YouTube and LinkedIn limits side by side. Flags duplicate hashtags. No signup.
 + [X Media Downloader](https://spacedownloader.io) - Free web tool that downloads X (Twitter) videos in original quality, Spaces and broadcasts as MP3 (live Spaces are recorded as they air), GIFs as MP4 and full-size images. No account or X login.
++ [Groundsocial](https://groundsocial.dev/docs/mcp) - Read-only API and hosted MCP server for public X data: a post with its view count and top replies, profiles and recent timelines, in the shape of X API v2 objects, with one key that also covers Reddit, TikTok, YouTube and 70+ other platforms.
 
 <!-- Browser Extensions -->
 ## Browser Extensions
