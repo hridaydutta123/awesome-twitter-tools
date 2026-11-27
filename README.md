@@ -146,6 +146,7 @@ Please cite this repository as:
 + [Muffle](https://usemuffle.com) - Turns off the X feed while posting, replies and DMs keep working, with an optional daily limit. Also hides people by the words in their bio, shows who unfollowed you and searches your bookmarks. Runs locally, no login. Freemium.
 + [Creel](https://chromewebstore.google.com/detail/beildllmkhjnebibpaenchhkoalacgkk?utm_source=awesome-twitter-tools&utm_medium=directory&utm_campaign=listing) - Exports your X bookmarks with folders, likes, posts, followers and lists to CSV, Excel and JSON, locally in your browser. Free up to 1,000 records per export; paid plans are one-time.
 + [Social Media Bot](https://www.pelock.com/products/social-media-bot) - Automate likes/unlikes, follows/unfollows, reposts/unreposts, bookmarking on X. Highly customizable, localized in 45 languages. Compatible with Chrome, Firefox, Edge.
++ [STOP SLOP](https://chromewebstore.google.com/detail/stop-slop/nhcffcobenbolefgdokapilaneemenbg?utm_source=awesome-twitter-tools&utm_medium=directory&utm_campaign=listing) - Tags likely AI-written posts on X, LinkedIn and Reddit by certainty and lets you review, mark, collapse or hide them as you scroll. Local checks plus 5,000 free cloud checks a month; no signup.
 
 <!-- Research Papers -->
 ## Research Papers
